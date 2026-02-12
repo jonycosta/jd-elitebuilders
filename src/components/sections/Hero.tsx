@@ -1,0 +1,95 @@
+"use client";
+
+import { motion } from "framer-motion";
+import { ArrowRight } from "lucide-react";
+import { useTranslations } from "next-intl";
+
+export const Hero = () => {
+    const t = useTranslations("Hero");
+    const tStats = useTranslations("Stats");
+
+    return (
+        <section id="home" className="relative h-screen w-full flex items-center justify-center overflow-hidden bg-background">
+            {/* Background Image - Light, bright Mediterranean Villa */}
+            <div
+                className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-[30s] scale-110 motion-safe:animate-slow-zoom"
+                style={{
+                    backgroundImage: "url('https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2653&auto=format&fit=crop')", // Bright modern villa
+                    filter: "brightness(0.9) contrast(1.1)" // Less dark, just crisp
+                }}
+            />
+
+            {/* Gradient Overlay - Light & Airy instead of Black */}
+            <div className="absolute inset-0 bg-gradient-to-r from-background/90 via-background/60 to-transparent lg:opacity-100" />
+
+            <div className="relative z-10 container mx-auto px-6 text-center lg:text-left flex flex-col lg:flex-row items-center justify-between gap-12">
+                {/* Brand Overlay Integration - Elegant Watermark */}
+                <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] opacity-10 pointer-events-none -z-10 select-none mix-blend-soft-light">
+                    <img src="/logo.png" alt="" className="w-full h-full object-contain filter brightness-0 invert" />
+                </div>
+
+                <div className="max-w-4xl">
+                    <motion.div
+                        initial={{ opacity: 0, y: 30 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ duration: 0.8 }}
+                    >
+                        <span className="inline-block text-bronze font-black tracking-[0.3em] uppercase text-base mb-6 border-b-2 border-bronze/20 pb-2">
+                            {t("tagline")}
+                        </span>
+                        <h1 className="text-5xl lg:text-8xl font-black text-navy leading-tight mb-8">
+                            {t("title_start")} <span className="text-bronze italic font-serif">{t("title_highlight")}</span> {t("title_end")}
+                        </h1>
+                        <p className="text-lg lg:text-xl text-navy-light max-w-2xl mb-12 font-medium tracking-wide leading-relaxed">
+                            {t("description")}
+                        </p>
+
+                        <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
+                            <button className="bg-navy text-white px-10 py-5 rounded-sm font-bold uppercase tracking-widest hover:bg-navy-light transition-smooth flex items-center justify-center gap-3 shadow-xl shadow-navy/20 group">
+                                {t("cta_primary")}
+                                <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
+                            </button>
+                            <a
+                                href="#portfolio"
+                                className="border-2 border-navy/10 backdrop-blur-sm bg-white/50 text-navy px-10 py-5 rounded-sm font-bold uppercase tracking-widest hover:bg-white hover:text-bronze transition-smooth hover:border-bronze shadow-lg text-center"
+                            >
+                                {t("cta_secondary")}
+                            </a>
+                        </div>
+                    </motion.div>
+                </div>
+
+                {/* Floating Stats - Glassmorphism Light Style */}
+                <motion.div
+                    initial={{ opacity: 0, x: 50 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ duration: 1, delay: 0.5 }}
+                    className="hidden lg:flex flex-col gap-6"
+                >
+                    <div className="bg-white/80 backdrop-blur-xl p-8 rounded-2xl border border-white shadow-2xl shadow-navy/5 flex flex-col items-center min-w-[180px]">
+                        <span className="block text-4xl font-black text-gradient-navy mb-1">+15</span>
+                        <span className="text-xs uppercase tracking-widest text-stone font-bold">{tStats("experience")}</span>
+                    </div>
+                    <div className="bg-white/80 backdrop-blur-xl p-8 rounded-2xl border border-white shadow-2xl shadow-navy/5 flex flex-col items-center min-w-[180px]">
+                        <span className="block text-4xl font-black text-gradient-navy mb-1">200+</span>
+                        <span className="text-xs uppercase tracking-widest text-stone font-bold">{tStats("projects")}</span>
+                    </div>
+                    <div className="bg-white/80 backdrop-blur-xl p-8 rounded-2xl border border-white shadow-2xl shadow-navy/5 flex flex-col items-center min-w-[180px]">
+                        <span className="block text-4xl font-black text-gradient-navy mb-1">100%</span>
+                        <span className="text-xs uppercase tracking-widest text-stone font-bold">{tStats("guarantee")}</span>
+                    </div>
+                </motion.div>
+            </div>
+
+            {/* Scroll Indicator - Darker for visibility */}
+            <motion.div
+                animate={{ y: [0, 10, 0] }}
+                transition={{ duration: 2, repeat: Infinity }}
+                className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
+            >
+                <div className="w-[2px] h-12 bg-gradient-to-t from-navy to-transparent" />
+                <span className="text-[10px] uppercase tracking-widest text-navy font-bold opacity-50">{t("scroll")}</span>
+            </motion.div>
+        </section>
+    );
+};

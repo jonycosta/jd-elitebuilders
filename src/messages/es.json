@@ -1,0 +1,300 @@
+{
+  "Navbar": {
+    "subtitle": "Elite Builders",
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Sobre Nosotros",
+    "portfolio": "Portfolio",
+    "quote": "Presupuesto Online",
+    "contact": "Contacto"
+  },
+  "Hero": {
+    "tagline": "La Solución Definitiva para tu Hogar",
+    "title_start": "TU TRANQUILIDAD",
+    "title_highlight": "ES NUESTRA",
+    "title_end": "PRIORIDAD",
+    "description": "Desde pequeñas reparaciones hasta grandes reformas. Somos la respuesta profesional a cualquier necesidad de tu vivienda en la Costa del Sol. Olvídate de los problemas, nosotros nos ocupamos.",
+    "cta_primary": "Pedir Presupuesto Online",
+    "cta_secondary": "Ver Soluciones",
+    "scroll": "Descubrir"
+  },
+  "Stats": {
+    "experience": "Años de Experiencia",
+    "projects": "Proyectos Realizados",
+    "guarantee": "Garantía de Calidad"
+  },
+  "WhatsApp": {
+    "label": "Presupuesto",
+    "sublabel": "Chat WhatsApp",
+    "tooltip": "¡Hola! ¿En qué podemos ayudarte?",
+    "message": "Hola J&D, me gustaría solicitar un presupuesto para una reforma."
+  },
+  "ServicesPreview": {
+    "title": "Nuestros Servicios de Excelencia",
+    "subtitle": "Expertos en Obra Nueva, Reformas Integrales y Proyectos de Lujo. Calidad superior a precios competitivos."
+  },
+  "BudgetSimulator": {
+    "title": "Calculadora de Presupuesto",
+    "subtitle": "Obtén una estimación rápida para tu reforma o reparación.",
+    "type_label": "¿Qué necesitas solucionar?",
+    "size_label": "Tamaño aprox (m²)",
+    "quality_label": "Nivel de Acabados",
+    "next": "Siguiente",
+    "calculate": "Ver Precio Estimado",
+    "restart": "Empezar de nuevo",
+    "result_title": "Inversión Estimada",
+    "kitchen": "Budget Cocina",
+    "bathroom": "Budget Baño",
+    "humidity": "Budget Humedades",
+    "interior": "Budget Interior",
+    "terrace": "Budget Exterior",
+    "painting": "Budget Pintura",
+    "plastering": "Budget Alisado",
+    "flooring": "Budget Suelos",
+    "maintenance": "Budget Mantenimiento"
+  },
+  "disclaimer": {
+    "title": "Nota Importante sobre el Presupuesto",
+    "text": "Este precio es solo orientativo. Para poder ofrecerle un presupuesto exacto y ajustado a sus necesidades, le recomendamos reservar una cita gratuita. Valoraremos su proyecto en persona sin ningún compromiso."
+  },
+  "large_scale": {
+    "title": "Proyecto de Gran Envergadura",
+    "text": "Para propiedades de este tamaño, un gráfico no hace justicia a la precisión que necesitas. Preferimos estudiar tu caso personalmente para ofrecerte un presupuesto optimizado y profesional."
+  },
+  "painting_note": {
+    "title": "Sobre el Servicio de Pintura",
+    "text": "Este precio de 5€/m² aplica a paredes lisas y colores claros. Si la superficie presenta desperfectos, necesita tratamiento previo o colores oscuros, realizaremos una valoración personalizada gratuita."
+  },
+  "cta_visit": "Solicitar Visita y Valoración Gratuita",
+  "Services": {
+    "new_build": {
+      "title": "Obra Nueva",
+      "description": "Diseñamos y construimos la villa de tus sueños desde cero. Gestión integral desde los cimientos hasta la entrega de llaves.",
+      "benefits": [
+        "Arquitectura Moderna",
+        "Eficiencia Energética A+",
+        "Gestión de Licencias"
+      ]
+    },
+    "renovation": {
+      "title": "Reforma Integral",
+      "description": "Transformación completa de viviendas. Elevamos el estándar de tu propiedad con acabados de lujo y distribución optimizada.",
+      "benefits": [
+        "Revalorización del Inmueble",
+        "Diseño de Interiores",
+        "Instalaciones Nuevas"
+      ]
+    },
+    "extension": {
+      "title": "Ampliación",
+      "description": "¿Necesitas más espacio? Añadimos metros cuadrados a tu hogar integrando la nueva estructura perfectamente con la existente.",
+      "benefits": [
+        "Más Espacio Útil",
+        "Integración Estética",
+        "Sin Mudanzas"
+      ]
+    },
+    "pool": {
+      "title": "Piscinas de Diseño",
+      "description": "Piscinas infinity, de agua salada o climatizadas. El oasis perfecto para tu jardín con la última tecnología.",
+      "benefits": [
+        "Diseño Exclusivo",
+        "Sistemas de Sal",
+        "Domótica Integrada"
+      ]
+    },
+    "rehabilitation": {
+      "title": "Rehabilitación",
+      "description": "Expertos en recuperar la belleza de fincas antiguas y estructuras históricas, combinando tradición con confort moderno.",
+      "benefits": [
+        "Respeto Patrimonial",
+        "Consolidación Estructural",
+        "Confort Moderno"
+      ]
+    },
+    "humidity": {
+      "title": "Reparación de Humedades",
+      "description": "Eliminamos el problema de raiz. Diagnóstico experto y tratamientos definitivos para capilaridad, filtraciones y condensación. Recupera la salud de tu hogar.",
+      "benefits": [
+        "Diagnóstico con Cámara Térmica",
+        "Tratamientos Garantizados",
+        "Ambiente Saludable"
+      ]
+    },
+    "waterproofing": {
+      "title": "Impermeabilización y Protección",
+      "description": "Un pequeño problema de humedad hoy puede convertirse en una reparación costosa mañana. Protegemos tu inversión contra filtraciones en techos, terrazas y fachadas con soluciones duraderas.",
+      "benefits": [
+        "Prevención de Filtraciones",
+        "Materiales de Alta Durabilidad",
+        "Garantía de Estanqueidad"
+      ]
+    },
+    "maintenance": {
+      "title": "Mantenimiento y Reparaciones",
+      "description": "Servicio integral para tu hogar: reparaciones generales, arreglo de averías de agua, mantenimiento de piscinas y jardines. Tu propiedad siempre en perfecto estado.",
+      "benefits": [
+        "Reparaciones y Arreglos",
+        "Averías de Agua y Tuberías",
+        "Mantenimiento Piscinas y Jardines"
+      ]
+    },
+    "painting": {
+      "title": "Pintura Profesional",
+      "description": "Renovamos tus espacios con acabados perfectos. Especialistas en interiores y fachadas con materiales de alta calidad.",
+      "benefits": [
+        "Acabados Lisos",
+        "Pintura de Alta Resistencia",
+        "Limpieza y Rapidez"
+      ]
+    },
+    "plastering": {
+      "title": "Yeso y Alisados",
+      "description": "Profesionales en aplicaciones de yeso y alisado de paredes. Acabados lisos impecables listos para pintar.",
+      "benefits": [
+        "Alisado de Gotelé",
+        "Yeso Proyectado",
+        "Acabados Espejo"
+      ]
+    },
+    "flooring": {
+      "title": "Solerías y Alicatados",
+      "description": "Expertos en colocación de pavimentos y revestimientos. Suelos perfectamente nivelados con acabados de alta calidad.",
+      "benefits": [
+        "Nivelación de Precisión",
+        "Grandes Formatos",
+        "Materiales de Lujo"
+      ]
+    },
+    "kitchen": {
+      "title": "Reformas de Cocinas",
+      "description": "Transformamos tu cocina en un espacio funcional y moderno. Diseño a medida y materiales de primera calidad.",
+      "benefits": [
+        "Diseño Ergonómico",
+        "Materiales Premium",
+        "Instalación Completa"
+      ]
+    },
+    "bathroom": {
+      "title": "Reformas de Baños",
+      "description": "Crea tu propio oasis personal. Reformas de baños con acabados de lujo y máxima optimización del espacio.",
+      "benefits": [
+        "Grifería de Diseño",
+        "Platos de Ducha a Medida",
+        "Acabados Hidrófugos"
+      ]
+    },
+    "interior": {
+      "title": "Reformas Interiores",
+      "description": "Reforma completa de interiores: suelos, tabiquería, iluminación y acabados. Tu hogar como nuevo.",
+      "benefits": [
+        "Redistribución de Espacios",
+        "Iluminación LED",
+        "Suelos de Alta Calidad"
+      ]
+    },
+    "terrace": {
+      "title": "Terrazas y Exteriores",
+      "description": "Aprovecha el clima de la Costa del Sol. Reformas de terrazas, pérgolas y zonas de relax exterior.",
+      "benefits": [
+        "Zonas Chill-out",
+        "Pavimentos Antideslizantes",
+        "Iluminación Exterior"
+      ]
+    }
+  },
+  "About": {
+    "title": "La Fusión Perfecta: Nerja + Holanda",
+    "subtitle": "Tradición Local y Calidad Hispano Holandesa.",
+    "story": "J&D Elite Builders nace de la unión de dos culturas. Somos dos jóvenes emprendedores, uno nativo de Nerja y otro de Holanda, que decidieron unir fuerzas. Combinamos el conocimiento profundo del terreno y la normativa local de la Costa del Sol con la metodología y precisión que nos caracteriza. Somos metódicos y nos apasiona ofrecer un trabajo profesional, cuidando meticulosamente cada detalle técnico y estético.",
+    "satisfaction": "Nuestra mayor recompensa es saber que no hay nada como dejar al cliente plenamente satisfecho con su nuevo hogar.",
+    "features": {
+      "local": "Expertos en la Costa del Sol",
+      "dutch": "Calidad y Profesionalidad Hispano Holandesa",
+      "youth": "Innovación y Energía"
+    }
+  },
+  "Portfolio": {
+    "title": "Portafolio de Excelencia",
+    "subtitle": "Una selección de nuestros proyectos más destacados, donde la precisión holandesa se encuentra con la pasión local.",
+    "categories": {
+      "all": "Todos",
+      "renovations": "Reformas",
+      "finishes": "Acabados (Yeso/Pintura)",
+      "painting": "Pintura",
+      "maintenance": "Mantenimiento"
+    },
+    "view_project": "Ver Proyecto",
+    "before_after": "Ver Antes / Después"
+  },
+  "SEO": {
+    "home": {
+      "title": "J&D Elite Builders | Reformas y Construcción en Nerja, Málaga y Costa del Sol",
+      "description": "Empresa líder en reformas integrales, construcción de villas y servicios premium en Costa del Sol. Atendemos Nerja, Frigiliana, Torrox, Málaga, Marbella, Fuengirola, Mijas y Granada. Calidad hispano-holandesa.",
+      "og_title": "J&D Elite Builders - Reformas de Lujo en Costa del Sol",
+      "og_description": "Expertos en construcción y reformas de alto standing. Nerja, Málaga, Marbella. Precisión holandesa + experiencia local.",
+      "keywords": "reformas nerja, construcción costa del sol, reformas málaga, constructor nerja, piscinas málaga, reformas integrales, obra nueva marbella, reformas frigiliana, construcción torrox, albañil nerja, reformas fuengirola, construcción mijas, reformas granada"
+    },
+    "services": {
+      "new_build": {
+        "title": "Construcción de Casas y Villas en Nerja | J&D Elite Builders",
+        "description": "Expertos en construcción de obra nueva. Creamos su hogar desde los cimientos con profesionalidad y estándares europeos."
+      },
+      "renovation": {
+        "title": "Reformas Integrales en Costa del Sol | Nerja y Marbella",
+        "description": "Llevamos a cabo la reforma completa de su vivienda, local o villa. Transformación total con acabados de alta calidad."
+      },
+      "extension": {
+        "title": "Ampliaciones de Viviendas y Estructuras | Nerja",
+        "description": "Ganamos espacio para su hogar con ampliaciones inteligentes y seguras, integrando perfectamente la nueva construcción."
+      },
+      "pool": {
+        "title": "Construcción de Piscinas en Nerja y Costa del Sol",
+        "description": "Especialistas en diseño y construcción de piscinas de todo tipo: infinity, salinas y climatizadas."
+      },
+      "white_glove": {
+        "title": "Mantenimiento y Reparación de Viviendas | Nerja",
+        "description": "Servicio técnico para su hogar: impermeabilizaciones, cuidado de jardines y mantenimiento integral de propiedades."
+      },
+      "painting": {
+        "title": "Pintores Profesionales en Nerja y Costa del Sol",
+        "description": "Servicios de pintura para interiores y fachadas. Rapidez, limpieza y resultados impecables en cada proyecto."
+      },
+      "plastering": {
+        "title": "Yeseros y Alisado de Paredes en Nerja | Calidad J&D",
+        "description": "Profesionales del yeso y el alisado. Eliminamos gotelé y preparamos sus paredes con acabados lisos perfectos."
+      },
+      "flooring": {
+        "title": "Instalación de Suelos y Azulejos | Solerías en Nerja",
+        "description": "Expertos en colocación de pavimentos, laminados y alicatados con nivelación de precisión."
+      },
+      "kitchen": {
+        "title": "Reformas de Cocinas en Nerja y Costa del Sol",
+        "description": "Diseñamos y montamos la cocina de sus sueños. Reformas funcionales con materiales resistentes y modernos."
+      },
+      "bathroom": {
+        "title": "Reformas de Baños en Nerja | J&D Elite Builders",
+        "description": "Renovación completa de baños: cambio de bañera por ducha, fontanería y acabados profesionales."
+      },
+      "interior": {
+        "title": "Reformas de Interior y Decoración | Nerja",
+        "description": "Redistribuimos y renovamos el interior de su casa para mejorar el confort y la estética de cada estancia."
+      },
+      "terrace": {
+        "title": "Reformas de Terrazas y Exteriores en Nerja",
+        "description": "Acondicionamos su terraza o zona exterior para disfrutar del clima de la Costa del Sol con estilo."
+      },
+      "maintenance": {
+        "title": "Mantenimiento y Reparaciones en Costa del Sol | J&D Builders",
+        "description": "Servicio integral de mantenimiento: reparaciones generales, averías de agua, piscinas y jardines. Protege tu inversión en Nerja y Costa del Sol."
+      }
+    }
+  },
+  "ServicePage": {
+    "back_home": "Volver al Inicio",
+    "construction_services": "Servicios de Construcción",
+    "request_quote": "Solicitar Presupuesto",
+    "why_trust_title": "¿Por qué confiar en J&D Elite Builders?",
+    "why_trust_text": "Fundada por un profesional local de Nerja y un experto de Holanda, nuestra empresa combina la pasión mediterránea con la disciplina y precisión del norte de Europa. No solo construimos casas, creamos hogares con estándares internacionales."
+  }
+}

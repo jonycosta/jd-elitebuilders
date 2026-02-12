@@ -1,0 +1,80 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  /* NEW PALETTE: Costa Excellence */
+  --color-navy: var(--navy);
+  --color-navy-light: var(--navy-light);
+  --color-navy-dark: var(--navy-dark);
+
+  --color-bronze: var(--bronze);
+  --color-bronze-light: var(--bronze-light);
+
+  --color-stone: var(--stone);
+  --color-stone-light: var(--stone-light);
+
+  --color-cream: var(--cream);
+}
+
+:root {
+  /* BACKGROUNDS: Warm, clean, airy */
+  --background: #FAFAF9;
+  /* Stone-50 (Warm White) */
+  --foreground: #1E293B;
+  /* Slate-800 (Deep Blue-Grey) */
+
+  /* PRIMARY: Authority & Trust (The 'Style 2' influence) */
+  --navy: #0F172A;
+  /* Slate-900 / Deep Navy */
+  --navy-light: #334155;
+  /* Slate-700 */
+  --navy-dark: #020617;
+  /* Slate-950 */
+
+  /* ACCENT: Luxury & Gold (Branding Alignment) */
+  --bronze: #C5A059;
+  /* Premium Gold */
+  --bronze-light: #E2C28C;
+  /* Champagne Gold */
+
+  /* NEUTRALS: Texture & Depth */
+  --stone: #78716C;
+  /* Stone-500 */
+  --stone-light: #E7E5E4;
+  /* Stone-200 */
+  --cream: #F5F5F4;
+  /* Stone-100 */
+
+  --font-geist-sans: "Inter", sans-serif;
+  --font-geist-mono: "Fira Code", monospace;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-geist-sans);
+}
+
+/* Luxury Utilities */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05);
+}
+
+.text-gradient-gold {
+  background: linear-gradient(135deg, var(--bronze), var(--bronze-light));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-navy {
+  background: linear-gradient(135deg, var(--navy), var(--navy-light));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

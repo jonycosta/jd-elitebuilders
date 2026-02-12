@@ -1,0 +1,307 @@
+{
+    "Navbar": {
+        "subtitle": "Elite Builders",
+        "home": "Hem",
+        "services": "Tjänster",
+        "about": "Om Oss",
+        "portfolio": "Portfolio",
+        "contact": "Kontakt"
+    },
+    "Hero": {
+        "tagline": "Costa del Sol Elite Builders",
+        "title_start": "RENOVERINGAR SOM",
+        "title_highlight": "INSPIRERAR",
+        "title_end": "LYX",
+        "description": "Förvandla exklusiva fastigheter till drömhem. Arkitektur, konstruktion och inredning med J&D-stämpel av excellens.",
+        "cta_primary": "Begär Offert",
+        "cta_secondary": "Visa Projekt",
+        "scroll": "Skrolla"
+    },
+    "Stats": {
+        "experience": "Års Erfarenhet",
+        "projects": "Slutförda Projekt",
+        "guarantee": "Kvalitetsgaranti"
+    },
+    "WhatsApp": {
+        "label": "Få Offert",
+        "sublabel": "WhatsApp Chat",
+        "tooltip": "Hej! Hur kan vi hjälpa dig?",
+        "message": "Hej J&D, jag skulle vilja be om en offert för en renovering."
+    },
+    "ServicesPreview": {
+        "title": "Våra Excellens-tjänster",
+        "subtitle": "Steg inom Nyproduktion, Totalrenoveringar och Lyxprojekt. Överlägsen kvalitet till konkurrenskraftiga priser."
+    },
+    "BudgetSimulator": {
+        "title": "Investerings-simulator",
+        "subtitle": "Få en uppskattning för ditt projekt.",
+        "type_label": "Vilken typ av projekt?",
+        "size_label": "Beräknad yta (m²)",
+        "quality_label": "Finishkvalitet",
+        "next": "Nästa Steg",
+        "calculate": "Beräkna Investering",
+        "restart": "Starta Om",
+        "result_title": "Uppskattad Investering",
+        "types": {
+            "kitchen": "Kök",
+            "bathroom": "Badrum",
+            "interior": "Interiörrenovering",
+            "terrace": "Terrass / Utomhus",
+            "painting": "Målning",
+            "plastering": "Gips",
+            "flooring": "Golv"
+        },
+        "disclaimer": {
+            "title": "Viktig information om budget",
+            "text": "Denna siffra är ett referenspris 'från'. För att ge dig en exakt offert utan förbindelse behöver vi utföra en kostnadsfri teknisk värdering på din fastighet. Vi vill ge dig det bästa verkliga priset."
+        },
+        "large_scale": {
+            "title": "Storskaligt Projekt",
+            "text": "För fastigheter av denna storlek gör ett diagram inte rättvisa åt den precision du förtjänar. Vi föredrar att studera ditt fall personligen för att erbjuda ett optimerat och professionellt förslag."
+        },
+        "painting_note": {
+            "title": "Om Målningstjänsten",
+            "text": "Detta pris på 5€/m² gäller släta väggar och ljusa färger. Om ytan har defekter, behöver förbehandling eller mörka färger, kommer vi att ge en kostnadsfri personlig värdering."
+        },
+        "cta_visit": "Boka gratis hembesök & värdering"
+    },
+    "Services": {
+        "new_build": {
+            "title": "Nyproduktion",
+            "description": "Vi designar och bygger dina drömmars villa från grunden. Helhetsansvar från grundläggning till nyckelöverlämning.",
+            "benefits": [
+                "Modern Arkitektur",
+                "Energieffektivitet A+",
+                "Licenshantering"
+            ]
+        },
+        "renovation": {
+            "title": "Totalrenovering",
+            "description": "Komplett förvandling av hem. Vi höjer standarden på din fastighet med lyxiga ytfinishar och optimerad planlösning.",
+            "benefits": [
+                "Fastighetsvärdering",
+                "Inredningsdesign",
+                "Nya Installationer"
+            ]
+        },
+        "extension": {
+            "title": "Tillbyggnad",
+            "description": "Behöver du mer plats? Vi lägger till kvadratmeter i ditt hem och integrerar den nya strukturen perfekt med den befintliga.",
+            "benefits": [
+                "Mer boyta",
+                "Estetisk integration",
+                "Ingen flytt behövs"
+            ]
+        },
+        "pool": {
+            "title": "Designpooler",
+            "description": "Infinity, saltvatten eller uppvärmda pooler. Den perfekta oasen för din trädgård med den senaste tekniken.",
+            "benefits": [
+                "Exklusiv Design",
+                "Saltsystem",
+                "Integrerad Hemautomation"
+            ]
+        },
+        "rehabilitation": {
+            "title": "Restaurering",
+            "description": "Experter på att återställa skönheten i gamla gods och historiska strukturer, kombinera tradition med modern komfort.",
+            "benefits": [
+                "Respekt för kulturarv",
+                "Strukturell konsolidering",
+                "Modern Komfort"
+            ]
+        },
+        "waterproofing": {
+            "title": "Vattentätning & Skydd",
+            "description": "Ett litet fuktproblem idag kan bli en dyr reparation imorgon. Vi skyddar din investering mot läckage i tak, terrasser och fasader med varaktiga lösningar.",
+            "benefits": [
+                "Förebyggande av Läckor",
+                "Hållbara Material",
+                "Vattentäthetsgaranti"
+            ]
+        },
+        "maintenance": {
+            "title": "Underhåll & Reparationer",
+            "description": "Omfattande service för ditt hem: generella reparationer, vattenläckage, pool- och trädgårdsskötsel. Din fastighet alltid i perfekt skick.",
+            "benefits": [
+                "Reparationer & Lagningar",
+                "Vattenläckor & Rör",
+                "Pool- & Trädgårdsskötsel"
+            ]
+        },
+        "painting": {
+            "title": "Professionell Målning",
+            "description": "Vi förnyar dina utrymmen med perfekta ytfinishar. Specialister på interiörer och fasader med högkvalitativa material.",
+            "benefits": [
+                "Släta Finishar",
+                "Slitstark Färg",
+                "Renlighet och Snabbhet"
+            ]
+        },
+        "plastering": {
+            "title": "Gips och Utjämning",
+            "description": "Proffs på gipsapplikationer och utjämning av väggar. Oklanderliga släta ytor redo för målning.",
+            "benefits": [
+                "Utjämning av Gotelé",
+                "Projektion av Gips",
+                "Spegelblanka Finishar"
+            ]
+        },
+        "flooring": {
+            "title": "Golvläggning och Kakelsättning",
+            "description": "Experter på installation av golv och beklädnad. Perfekt nivellerade golv med högkvalitativa finishar.",
+            "benefits": [
+                "Precisionsnivellering",
+                "Stora Format",
+                "Lyxiga Material"
+            ]
+        },
+        "kitchen": {
+            "title": "Köksrenoveringar",
+            "description": "Förvandla ditt kök till ett funktionellt och modernt utrymme. Anpassad design och material av högsta kvalitet.",
+            "benefits": [
+                "Ergonomisk Design",
+                "Premiummaterial",
+                "Komplett Installation"
+            ]
+        },
+        "bathroom": {
+            "title": "Badrumsrenoveringar",
+            "description": "Skapa din egen personliga oas. Badrumsrenoveringar med lyxiga ytfinishar och maximal utrymmesoptimering.",
+            "benefits": [
+                "Designerarmaturer",
+                "Måttbeställda Duschkar",
+                "Vattentäta Finishar"
+            ]
+        },
+        "interior": {
+            "title": "Interiörrenoveringar",
+            "description": "Komplett interiörrenovering: golv, väggar, belysning och ytfinishar. Ditt hem som nytt.",
+            "benefits": [
+                "Utrymmesomfördelning",
+                "LED-belysning",
+                "Golv av hög kvalitet"
+            ]
+        },
+        "terrace": {
+            "title": "Terrasser och Utomhus",
+            "description": "Dra nytta av vädret på Costa del Sol. Renoveringar av terrasser, pergolor och utomhusområden för avkoppling.",
+            "benefits": [
+                "Chill-out-zoner",
+                "Halkfria Golv",
+                "Utomhusbelysning"
+            ]
+        }
+    },
+    "About": {
+        "title": "Den perfekta mixen: Nerja + Holland",
+        "subtitle": "Lokal tradition och spansk-holländsk kvalitet.",
+        "story": "J&D Elite Builders föddes ur föreningen av två kulturer. Vi är två unga entreprenörer, en från Nerja och den andra från Holland, som bestämde oss för att slå samman våra krafter. Vi kombinerar djup kunskap om Costa del Sol och lokala regler med den metodik och precision som kännetecknar oss. Vi är metodiska och passionerade när det gäller att erbjuda professionellt arbete och tar minutiöst hand om varje teknisk och estetisk detalj.",
+        "satisfaction": "Vår största belöning är att veta att det inte finns något bättre än att lämna kunden helt nöjd med sitt nya hem.",
+        "features": {
+            "local": "Experter på Costa del Sol",
+            "dutch": "Spansk-holländsk kvalitet och professionalism",
+            "youth": "Innovation & Energi"
+        }
+    },
+    "Portfolio": {
+        "title": "Portfölj av Excellens",
+        "subtitle": "Ett urval av våra mest framstående projekt, där holländsk precision möter lokal passion.",
+        "categories": {
+            "all": "Alla",
+            "renovations": "Renoveringar",
+            "finishes": "Ytbehandlingar (Gips/Målning)",
+            "painting": "Målning",
+            "maintenance": "Underhåll"
+        },
+        "view_project": "Visa Projekt",
+        "before_after": "Visa Före / Efter"
+    },
+    "SEO": {
+        "home": {
+            "title": "J&D Elite Builders | Renovering & Bygg i Nerja, Málaga & Costa del Sol",
+            "description": "Ledande företag för totalrenoveringar, villabygge och premiumtjänster på Costa del Sol. Vi betjänar Nerja, Frigiliana, Torrox, Málaga, Marbella, Fuengirola, Mijas & Granada. Spansk-nederländsk kvalitet.",
+            "og_title": "J&D Elite Builders - Lyxrenoveringar Costa del Sol",
+            "og_description": "Expertkonstruktion och exklusiva renoveringar. Nerja, Málaga, Marbella. Holländsk precision + lokal expertis.",
+            "keywords": "renovering nerja, byggföretag costa del sol, husrenovering málaga, byggare nerja, poolbyggare málaga, totalrenovering, nybyggnation marbella, renovering frigiliana, byggnad torrox, murare nerja, renovering fuengirola, konstruktion mijas, renovering granada"
+        },
+        "services": {
+            "new_build": {
+                "title": "Bygga Hus & Villa i Nerja | J&D Elite Builders",
+                "description": "Experter på nyproduktion. Vi bygger ditt hem från grunden med professionell europeisk standard."
+            },
+            "renovation": {
+                "title": "Totalrenovering Costa del Sol | Nerja & Marbella",
+                "description": "Komplett renoveringstjänst för lägenheter, hus och villor. Total förvandling med högkvalitativ finish."
+            },
+            "extension": {
+                "title": "Husutbyggnad & Tillbyggnad | Nerja",
+                "description": "Skapa mer utrymme i ditt hem med smarta och säkra tillbyggnader som integreras perfekt med befintligt hus."
+            },
+            "pool": {
+                "title": "Bygga Pool i Nerja & Costa del Sol",
+                "description": "Specialister på design och konstruktion av alla typer av pooler: infinity, saltvatten och uppvärmda."
+            },
+            "white_glove": {
+                "title": "Underhåll & Skötsel av Fastigheter | Nerja",
+                "description": "Teknisk service för ditt hem: vattentätning, trädgårdsskötsel och omfattande fastighetsunderhåll."
+            },
+            "painting": {
+                "title": "Professionella Målare i Nerja & Costa del Sol",
+                "description": "Målningstjänster för interiör och exteriör. Snabbhet, renhet och perfekt resultat i varje projekt."
+            },
+            "plastering": {
+                "title": "Gipsning & Utjämning av Väggar i Nerja | J&D Kvalitet",
+                "description": "Proffs på gipsning och utjämning. Vi tar bort gotelé och förbereder dina väggar med perfekt slät finish."
+            },
+            "flooring": {
+                "title": "Golvläggning & Kakelsättning i Nerja",
+                "description": "Experter på installation av alla typer av golv, laminat och kakel med precisionsnivellering."
+            },
+            "kitchen": {
+                "title": "Köksrenovering i Nerja & Costa del Sol",
+                "description": "Design och installation av ditt drömkök. Funktionella renoveringar med hållbara och moderna material."
+            },
+            "bathroom": {
+                "title": "Badrumsrenovering i Nerja | J&D Elite Builders",
+                "description": "Komplett badrumsrenovering: byte från badkar till dusch, VVS och professionella ytbehandlingar."
+            },
+            "interior": {
+                "title": "Inomhusrenovering & Hemförbättring | Nerja",
+                "description": "Vi designar om och renoverar insidan av ditt hem för att förbättra komfort och estetik i varje rum."
+            },
+            "terrace": {
+                "title": "Terrass- & Utomhusrenovering i Nerja",
+                "description": "Uppgradera din terrass eller uteplats för att njuta av vädret på Costa del Sol med stil."
+            },
+            "maintenance": {
+                "title": "Underhåll & Reparationer på Costa del Sol | J&D Builders",
+                "description": "Komplett underhållsservice: generella reparationer, vattenläckor, pooler och trädgårdar. Skydda din investering i Nerja och Costa del Sol."
+            }
+        }
+    },
+    "ServicePage": {
+        "back_home": "Tillbaka till Start",
+        "construction_services": "Byggtjänster",
+        "request_quote": "Begär Offert",
+        "why_trust_title": "Varför lita på J&D Elite Builders?",
+        "why_trust_text": "Grundat av en lokal yrkesman från Nerja och en expert från Holland, kombinerar vårt företag medelhavspassion med nordeuropeisk disciplin och precision. Vi bygger inte bara hus, vi skapar hem med internationell standard."
+    },
+    "Footer": {
+        "description": "Ledande byggföretag i Nerja och Costa del Sol. Specialister på totalrenoveringar, nybyggnation och underhåll med spansk-holländsk kvalitet.",
+        "links": "Snabblänkar",
+        "home": "Hem",
+        "about": "Om Oss",
+        "portfolio": "Projekt",
+        "services": "Tjänster",
+        "services_title": "Våra Tjänster",
+        "renovations": "Totalrenoveringar",
+        "new_build": "Nybyggnation",
+        "kitchens": "Kök",
+        "maintenance": "Underhåll",
+        "contact": "Kontakt",
+        "rights": "Alla rättigheter förbehållna.",
+        "privacy": "Integritetspolicy",
+        "cookies": "Cookiepolicy"
+    }
+}

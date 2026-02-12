@@ -1,0 +1,318 @@
+{
+    "Navbar": {
+        "subtitle": "Elite Builders",
+        "home": "Home",
+        "services": "Services",
+        "about": "About Us",
+        "portfolio": "Portfolio",
+        "quote": "Online Quote",
+        "contact": "Contact"
+    },
+    "Hero": {
+        "tagline": "The Ultimate Solution for Your Home",
+        "title_start": "YOUR PEACE OF MIND",
+        "title_highlight": "IS OUR",
+        "title_end": "PRIORITY",
+        "description": "From small repairs to major renovations. We are the professional answer to any housing need on the Costa del Sol. Forget the problems, we handle them.",
+        "cta_primary": "Get Online Quote",
+        "cta_secondary": "View Solutions",
+        "scroll": "Discover"
+    },
+    "Stats": {
+        "experience": "Years of Experience",
+        "projects": "Completed Projects",
+        "guarantee": "Quality Guarantee"
+    },
+    "WhatsApp": {
+        "label": "Get Quote",
+        "sublabel": "WhatsApp Chat",
+        "tooltip": "Hello! How can we help you?",
+        "message": "Hi J&D, I would like to request a quote for a renovation."
+    },
+    "ServicesPreview": {
+        "title": "Our Excellence Services",
+        "subtitle": "Steps in New Build, Full Renovations, and Luxury Projects. Superior quality at competitive prices."
+    },
+    "BudgetSimulator": {
+        "title": "Budget Calculator",
+        "subtitle": "Get a quick estimate for your renovation or repair.",
+        "type_label": "What do you need to solve?",
+        "size_label": "Approx Size (m²)",
+        "quality_label": "Finish Quality",
+        "next": "Next",
+        "calculate": "See Estimated Price",
+        "restart": "Start Over",
+        "result_title": "Estimated Investment",
+        "kitchen": "Kitchen",
+        "bathroom": "Bathroom",
+        "humidity": "Humidity Repair",
+        "interior": "Interior Renovation",
+        "terrace": "Terrace / Outdoor",
+        "painting": "Painting",
+        "plastering": "Plastering / Smoothing",
+        "flooring": "Flooring / Tiling",
+        "maintenance": "General Maintenance"
+    },
+    "disclaimer": {
+        "title": "Important Budget Note",
+        "text": "This figure is a 'starting from' reference price. To give you an exact quote without commitment, we need to perform a free technical appraisal at your property. We want to give you the best real price."
+    },
+    "large_scale": {
+        "title": "Large Scale Project",
+        "text": "For properties of this size, a chart doesn't do justice to the precision you deserve. We prefer to study your case personally to offer an optimized and professional proposal."
+    },
+    "painting_note": {
+        "title": "About the Painting Service",
+        "text": "This price of 5€/m² applies to smooth walls and light colors. If the surface has defects, needs prior treatment, or dark colors, we will provide a free personalized valuation."
+    },
+    "cta_visit": "Request Free Visit & Appraisal"
+},
+"Services": {
+    "new_build": {
+        "title": "New Build",
+        "description": "We design and build the villa of your dreams from scratch. Integral management from the foundation to the keys delivery.",
+        "benefits": [
+            "Modern Architecture",
+            "Energy Efficiency A+",
+            "License Management"
+        ]
+    },
+    "renovation": {
+        "title": "Full Renovation",
+        "description": "Complete transformation of homes. We elevate the standard of your property with luxury finishes and optimized distribution.",
+        "benefits": [
+            "Property Revaluation",
+            "Interior Design",
+            "New Installations"
+        ]
+    },
+    "extension": {
+        "title": "Extension",
+        "description": "Need more space? We add square meters to your home integrating the new structure perfectly with the existing one.",
+        "benefits": [
+            "More Useful Space",
+            "Aesthetic Integration",
+            "No Moving Needed"
+        ]
+    },
+    "pool": {
+        "title": "Designer Pools",
+        "description": "Infinity, saltwater, or heated pools. The perfect oasis for your garden with the latest technology.",
+        "benefits": [
+            "Exclusive Design",
+            "Salt Systems",
+            "Integrated Domotics"
+        ]
+    },
+    "rehabilitation": {
+        "title": "Rehabilitation",
+        "description": "Experts in recovering the beauty of old estates and historic structures, combining tradition with modern comfort.",
+        "benefits": [
+            "Heritage Respect",
+            "Structural Consolidation",
+            "Modern Comfort"
+        ]
+    },
+    "humidity": {
+        "title": "Humidity Repair",
+        "description": "We eliminate the problem at the root. Expert diagnosis and definitive treatments for rising damp, leaks, and condensation. Restore your home's health.",
+        "benefits": [
+            "Thermal Camera Diagnosis",
+            "Guaranteed Treatments",
+            "Healthy Environment"
+        ]
+    },
+    "waterproofing": {
+        "title": "Waterproofing & Protection",
+        "description": "A small moisture problem today can become an expensive repair tomorrow. We protect your investment against leaks in roofs, terraces, and facades with lasting solutions.",
+        "benefits": [
+            "Leak Prevention",
+            "High-Durability Materials",
+            "Watertight Guarantee"
+        ]
+    },
+    "maintenance": {
+        "title": "Maintenance & Repairs",
+        "description": "Complete service for your home: general repairs, water leak fixes, pool and garden maintenance. Your property always in perfect condition.",
+        "benefits": [
+            "General Repairs & Fixes",
+            "Water Leaks & Plumbing",
+            "Pool & Garden Maintenance"
+        ]
+    },
+    "painting": {
+        "title": "Professional Painting",
+        "description": "We renew your spaces with perfect finishes. Specialists in interiors and facades with high-quality materials.",
+        "benefits": [
+            "Smooth Finishes",
+            "High-Resistance Paint",
+            "Cleanliness and Speed"
+        ]
+    },
+    "plastering": {
+        "title": "Plastering & Smoothing",
+        "description": "Professionals in plaster applications and wall smoothing. Impeccable smooth finishes ready for painting.",
+        "benefits": [
+            "Smoothing of Gotelé",
+            "Projected Plaster",
+            "Mirror Finishes"
+        ]
+    },
+    "flooring": {
+        "title": "Flooring & Tiling",
+        "description": "Experts in flooring and cladding installation. Perfectly leveled floors with high-quality finishes.",
+        "benefits": [
+            "Precision Leveling",
+            "Large Formats",
+            "Luxury Materials"
+        ]
+    },
+    "kitchen": {
+        "title": "Kitchen Renovations",
+        "description": "Transform your kitchen into a functional and modern space. Custom design and top-quality materials.",
+        "benefits": [
+            "Ergonomic Design",
+            "Premium Materials",
+            "Complete Installation"
+        ]
+    },
+    "bathroom": {
+        "title": "Bathroom Renovations",
+        "description": "Create your own personal oasis. Bathroom renovations with luxury finishes and maximum space optimization.",
+        "benefits": [
+            "Designer Fittings",
+            "Custom Shower Trays",
+            "Waterproof Finishes"
+        ]
+    },
+    "interior": {
+        "title": "Interior Renovations",
+        "description": "Complete interior renovation: floors, partitioning, lighting and finishes. Your home as good as new.",
+        "benefits": [
+            "Space Redistribution",
+            "LED Lighting",
+            "High-Quality Floors"
+        ]
+    },
+    "terrace": {
+        "title": "Terraces and Outdoor",
+        "description": "Take advantage of the Costa del Sol weather. Renovations of terraces, pergolas and outdoor relaxation areas.",
+        "benefits": [
+            "Chill-out Zones",
+            "Non-slip Pavements",
+            "Outdoor Lighting"
+        ]
+    }
+},
+"About": {
+    "title": "The Perfect Mix: Nerja + Holland",
+    "subtitle": "Local Tradition and Spanish-Dutch Quality.",
+    "story": "J&D Elite Builders was born from the union of two cultures. We are two young entrepreneurs, one native to Nerja and the other from Holland, who decided to join forces. We combine deep knowledge of the Costa del Sol terrain and local regulations with the methodology and precision that defines us. We are methodical and passionate about offering professional work, meticulously taking care of every technical and aesthetic detail.",
+    "satisfaction": "Our greatest reward is knowing that there is nothing like leaving the client fully satisfied with their new home.",
+    "features": {
+        "local": "Costa del Sol Experts",
+        "dutch": "Spanish-Dutch Quality & Professionalism",
+        "youth": "Innovation & Energy"
+    }
+},
+"Portfolio": {
+    "title": "Portfolio of Excellence",
+    "subtitle": "A selection of our most outstanding projects, where Dutch precision meets local passion.",
+    "categories": {
+        "all": "All",
+        "renovations": "Renovations",
+        "finishes": "Finishes (Plaster/Painting)",
+        "painting": "Painting",
+        "maintenance": "Maintenance"
+    },
+    "view_project": "View Project",
+    "before_after": "View Before / After"
+},
+"SEO": {
+    "home": {
+        "title": "J&D Elite Builders | Renovations & Construction in Nerja, Málaga & Costa del Sol",
+        "description": "Leading company for complete renovations, villa construction, and premium property services on Costa del Sol. Serving Nerja, Frigiliana, Torrox, Málaga, Marbella, Fuengirola, Mijas & Granada. Spanish-Dutch quality.",
+        "og_title": "J&D Elite Builders - Luxury Renovations Costa del Sol",
+        "og_description": "Expert construction and high-end renovations. Nerja, Málaga, Marbella. Dutch precision + local expertise.",
+        "keywords": "renovation nerja, construction costa del sol, home renovation málaga, builders nerja, swimming pools málaga, complete renovation, new build marbella, renovation frigiliana, construction torrox, builder nerja, renovation fuengirola, construction mijas, renovation granada"
+    },
+    "services": {
+        "new_build": {
+            "title": "House & Villa Construction in Nerja | J&D Elite Builders",
+            "description": "Experts in new build projects. We build your home from the ground up with professional European standards."
+        },
+        "renovation": {
+            "title": "Full Renovations Costa del Sol | Nerja & Marbella",
+            "description": "Complete renovation services for apartments, houses, and villas. Full transformation with high-quality finishes."
+        },
+        "extension": {
+            "title": "Home Extensions & Structural Additions | Nerja",
+            "description": "Add space to your home with smart and safe extensions, seamlessly integrated with the existing building."
+        },
+        "pool": {
+            "title": "Swimming Pool Construction in Nerja & Costa del Sol",
+            "description": "Specialists in the design and construction of all types of pools: infinity, salt-water, and heated."
+        },
+        "white_glove": {
+            "title": "Home Maintenance & Property Care | Nerja",
+            "description": "Technical service for your home: waterproofing, garden care, and comprehensive property maintenance."
+        },
+        "painting": {
+            "title": "Professional Painters in Nerja & Costa del Sol",
+            "description": "Interior and exterior painting services. Speed, cleanliness, and perfect results for every project."
+        },
+        "plastering": {
+            "title": "Plastering & Wall Smoothing in Nerja | J&D Quality",
+            "description": "Plastering and smoothing professionals. We remove 'gotelé' and prepare your walls with perfect smooth finishes."
+        },
+        "flooring": {
+            "title": "Flooring & Tiling Installation in Nerja",
+            "description": "Experts in installing all types of flooring, laminates, and tiles with precision leveling."
+        },
+        "kitchen": {
+            "title": "Kitchen Renovations in Nerja & Costa del Sol",
+            "description": "Design and installation of your dream kitchen. Functional renovations with modern and durable materials."
+        },
+        "bathroom": {
+            "title": "Bathroom Renovations in Nerja | J&D Elite Builders",
+            "description": "Complete bathroom remodeling: bathtub to shower conversion, plumbing, and professional finishes."
+        },
+        "interior": {
+            "title": "Interior Renovations & Home Improvement | Nerja",
+            "description": "We redesign and renovate your home's interior to improve comfort and aesthetics in every room."
+        },
+        "terrace": {
+            "title": "Terrace & Outdoor Renovations in Nerja",
+            "description": "Upgrade your terrace or outdoor area to enjoy the Costa del Sol weather in style."
+        },
+        "maintenance": {
+            "title": "Maintenance & Repairs on Costa del Sol | J&D Builders",
+            "description": "Complete maintenance service: general repairs, water leaks, pools and gardens. Protect your investment in Nerja and Costa del Sol."
+        }
+    }
+},
+"ServicePage": {
+    "back_home": "Back to Home",
+    "construction_services": "Construction Services",
+    "request_quote": "Request Quote",
+    "why_trust_title": "Why Trust J&D Elite Builders?",
+    "why_trust_text": "Founded by a local professional from Nerja and an expert from Holland, our company combines Mediterranean passion with Northern European discipline and precision. We don't just build houses, we create homes with international standards."
+},
+"Footer": {
+    "description": "Leading construction company in Nerja and Costa del Sol. Specialists in full renovations, new builds, and maintenance with Spanish-Dutch quality.",
+    "links": "Quick Links",
+    "home": "Home",
+    "about": "About Us",
+    "portfolio": "Projects",
+    "services": "Services",
+    "services_title": "Our Services",
+    "renovations": "Full Renovations",
+    "new_build": "New Build",
+    "kitchens": "Kitchens",
+    "maintenance": "Maintenance",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies Policy"
+}
+}

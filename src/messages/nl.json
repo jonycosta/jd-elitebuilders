@@ -1,0 +1,307 @@
+{
+    "Navbar": {
+        "subtitle": "Elite Builders",
+        "home": "Home",
+        "services": "Diensten",
+        "about": "Over Ons",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+    },
+    "Hero": {
+        "tagline": "Costa del Sol Elite Builders",
+        "title_start": "RENOVATIES DIE",
+        "title_highlight": "INSPIREREN",
+        "title_end": "LUXE",
+        "description": "Exclusieve woningen transformeren naar droomhuizen. Architectuur, bouw en interieurontwerp met het J&D-keurmerk van uitmuntendheid.",
+        "cta_primary": "Offerte Aanvragen",
+        "cta_secondary": "Projecten Bekijken",
+        "scroll": "Scrollen"
+    },
+    "Stats": {
+        "experience": "Jaar Ervaring",
+        "projects": "Projecten Voltooid",
+        "guarantee": "Kwaliteitsgarantie"
+    },
+    "WhatsApp": {
+        "label": "Offerte",
+        "sublabel": "WhatsApp Chat",
+        "tooltip": "Hallo! Waarmee kunnen we u helpen?",
+        "message": "Hallo J&D, ik zou graag een offerte willen aanvragen voor een renovatie."
+    },
+    "ServicesPreview": {
+        "title": "Onze Excellente Diensten",
+        "subtitle": "Experts in Nieuwbouw, Volledige Renovaties en Luxe Projecten. Topkwaliteit tegen scherpe prijzen."
+    },
+    "BudgetSimulator": {
+        "title": "Investerings-simulator",
+        "subtitle": "Ontvang een schatting voor uw project.",
+        "type_label": "Wat voor project betreft het?",
+        "size_label": "Geschatte Oppervlakte (m²)",
+        "quality_label": "Kwaliteitsniveau van Afwerking",
+        "next": "Volgende Stap",
+        "calculate": "Investering Berekenen",
+        "restart": "Opnieuw Beginnen",
+        "result_title": "Geschatte Investering",
+        "types": {
+            "kitchen": "Keuken",
+            "bathroom": "Badkamer",
+            "interior": "Interieurrenovatie",
+            "terrace": "Terras / Exterieur",
+            "painting": "Schilderwerk",
+            "plastering": "Stukadoren",
+            "flooring": "Vloeren"
+        },
+        "disclaimer": {
+            "title": "Belangrijke Opmerking over de Begroting",
+            "text": "Dit cijfer is een referentieprijs 'vanaf'. Om u een exacte en vrijblijvende offerte te geven, moeten we een gratis technische beoordeling op uw locatie uitvoeren. We willen u de beste reële prijs bieden."
+        },
+        "large_scale": {
+            "title": "Grootschalig Project",
+            "text": "Voor projecten van deze omvang doet een grafiek geen recht aan de precisie die u nodig heeft. We bestuderen uw situatie liever persoonlijk om u een geoptimaliseerde en professionele offerte te bieden."
+        },
+        "painting_note": {
+            "title": "Over de Schilderwerk Service",
+            "text": "Deze prijs van 5€/m² geldt voor gladde wanden en lichte kleuren. Als de oppervlakte gebreken vertoont, een voorbehandeling nodig heeft of voor donkere kleuren, maken we een gratis persoonlijke schatting."
+        },
+        "cta_visit": "Gratis Bezoek & Waardebepaling Aanvragen"
+    },
+    "Services": {
+        "new_build": {
+            "title": "Nieuwbouw",
+            "description": "Wij ontwerpen en bouwen de villa van uw dromen vanaf de basis. Integrale begeleiding van fundering tot sleuteloverdracht.",
+            "benefits": [
+                "Moderne Architectuur",
+                "Energie-efficiëntie A+",
+                "Vergunningsmanagement"
+            ]
+        },
+        "renovation": {
+            "title": "Volledige Renovatie",
+            "description": "Complete transformatie van woningen. Wij verhogen de standaard van uw eigendom met luxe afwerkingen en geoptimaliseerde indeling.",
+            "benefits": [
+                "Waardevermeerdering Vastgoed",
+                "Interieurontwerp",
+                "Nieuwe Installaties"
+            ]
+        },
+        "extension": {
+            "title": "Aanbouw",
+            "description": "Extra ruimte nodig? Wij voegen vierkante meters toe aan uw woning en integreren de nieuwe structuur perfect met de bestaande bouw.",
+            "benefits": [
+                "Meer Gebruiksoppervlakte",
+                "Esthetische Integratie",
+                "Verhuizen Onnodig"
+            ]
+        },
+        "pool": {
+            "title": "Design Zwembaden",
+            "description": "Infinity, zoutwater of verwarmde zwembaden. De perfecte oase voor uw tuin met de nieuwste technologie.",
+            "benefits": [
+                "Exclusief Ontwerp",
+                "Zoutsystemen",
+                "Geïntegreerde Domotica"
+            ]
+        },
+        "rehabilitation": {
+            "title": "Restouratie",
+            "description": "Experts in het herstellen van de schoonheid van oude landhuizen en historische panden, waarbij traditie wordt gecombineerd met modern comfort.",
+            "benefits": [
+                "尊重 erfgoed",
+                "Structurele Consolidatie",
+                "Modern Comfort"
+            ]
+        },
+        "waterproofing": {
+            "title": "Waterdichting & Bescherming",
+            "description": "Een klein vochtprobleem vandaag kan morgen een dure reparatie worden. We beschermen uw investering tegen lekken in daken, terrassen en gevels met duurzame oplossingen.",
+            "benefits": [
+                "Preventie van Lekken",
+                "Duurzame Materialen",
+                "Waterdichtheidsgarantie"
+            ]
+        },
+        "maintenance": {
+            "title": "Onderhoud & Reparaties",
+            "description": "Complete service voor uw woning: algemene reparaties, waterlekken, zwembad- en tuinonderhoud. Uw eigendom altijd in perfecte staat.",
+            "benefits": [
+                "Reparaties & Herstel",
+                "Waterlekken & Leidingen",
+                "Zwembad- & Tuinonderhoud"
+            ]
+        },
+        "painting": {
+            "title": "Professioneel Schilderwerk",
+            "description": "Wij vernieuwen uw ruimtes met perfecte afwerkingen. Specialisten in interieur en gevels met hoogwaardige materialen.",
+            "benefits": [
+                "Strakke Afwerking",
+                "Hoge Kwaliteit Verf",
+                "Schoon en Snel"
+            ]
+        },
+        "plastering": {
+            "title": "Stukadoren & Gladmaken",
+            "description": "Professioneel stukadoorswerk en het gladmaken van wanden. Onberispelijke gladde afwerkingen, klaar om te schilderen.",
+            "benefits": [
+                "Gotelé Verwijderen",
+                "Spuitpleister",
+                "Spiegelgladde Afwerking"
+            ]
+        },
+        "flooring": {
+            "title": "Vloeren & Tegelwerk",
+            "description": "Experts in het leggen van vloeren en wandbekleding. Perfect genivelleerde vloeren met hoogwaardige afwerkingen.",
+            "benefits": [
+                "Precisienivellering",
+                "Grote Formaten",
+                "Luxe Materialen"
+            ]
+        },
+        "kitchen": {
+            "title": "Keukenrenovaties",
+            "description": "Wij transformeren uw keuken tot een functionele en moderne ruimte. Ontwerp op maat en topkwaliteit materialen.",
+            "benefits": [
+                "Ergonomisch Ontwerp",
+                "Premium Materialen",
+                "Complete Installatie"
+            ]
+        },
+        "bathroom": {
+            "title": "Badkamerrenovaties",
+            "description": "Creëer uw eigen persoonlijke oase. Badkamerrenovaties met luxe afwerkingen en maximale ruimte-optimalisatie.",
+            "benefits": [
+                "Design Kranen",
+                "Douchebakken op Maat",
+                "Waterbestendige Afwerking"
+            ]
+        },
+        "interior": {
+            "title": "Interieurrenovaties",
+            "description": "Complete interieurrenovatie: vloeren, wanden, verlichting en afwerking. Uw woning als nieuw.",
+            "benefits": [
+                "Ruimte-optimalisatie",
+                "LED-verlichting",
+                "Hoogwaardige Vloeren"
+            ]
+        },
+        "terrace": {
+            "title": "Terrassen & Exterieur",
+            "description": "Profiteer van het klimaat van de Costa del Sol. Renovatie van terrassen, pergola's en relaxruimtes buiten.",
+            "benefits": [
+                "Chill-out Zones",
+                "Antislip Vloeren",
+                "Buitenverlichting"
+            ]
+        }
+    },
+    "About": {
+        "title": "De Perfecte Mix: Nerja + Nederland",
+        "subtitle": "Lokale Traditie en Spaans-Nederlandse Kwaliteit.",
+        "story": "J&D Elite Builders is ontstaan uit de vereniging van twee culturen. Wij zijn twee jonge ondernemers, één geboren in Nerja en de ander uit Nederland, die besloten hun krachten te bundelen. Wij combineren diepgaande kennis van het terrein en lokale regelgeving van de Costa del Sol met de methodiek en precisie die ons kenmerkt. Wij zijn methodisch en gepassioneerd over het leveren van professioneel werk, met oog voor elk technisch en esthetisch detail.",
+        "satisfaction": "Onze grootste beloning is te weten dat de klant volledig tevreden is met zijn nieuwe thuis.",
+        "features": {
+            "local": "Costa del Sol Experts",
+            "dutch": "Spaans-Nederlandse Kwaliteit & Professionaliteit",
+            "youth": "Innovatie & Energie"
+        }
+    },
+    "Portfolio": {
+        "title": "Portfolio van Uitmuntendheid",
+        "subtitle": "Een selectie van onze meest opvallende projecten, waar Nederlandse precisie lokale passie ontmoet.",
+        "categories": {
+            "all": "Alle",
+            "renovations": "Renovaties",
+            "finishes": "Afwerking (Gips/Schilderwerk)",
+            "painting": "Schilderwerk",
+            "maintenance": "Onderhoud"
+        },
+        "view_project": "Project Bekijken",
+        "before_after": "Bekijk Voor / Na"
+    },
+    "SEO": {
+        "home": {
+            "title": "J&D Elite Builders | Renovaties & Bouw in Nerja, Málaga & Costa del Sol",
+            "description": "Toonaangevend bedrijf voor complete renovaties, villabouw en premium vastgoeddiensten aan Costa del Sol. Wij bedienen Nerja, Frigiliana, Torrox, Málaga, Marbella, Fuengirola, Mijas & Granada. Spaans-Nederlandse kwaliteit.",
+            "og_title": "J&D Elite Builders - Luxe Renovaties Costa del Sol",
+            "og_description": "Expert constructie en exclusieve renovaties. Nerja, Málaga, Marbella. Nederlandse precisie + lokale expertise.",
+            "keywords": "verbouwing nerja, bouwbedrijf costa del sol, huis renovatie málaga, aannemers nerja, zwembad aanleg málaga, complete renovatie, nieuwbouw marbella, verbouwing frigiliana, bouw torrox, metselaar nerja, verbouwing fuengirola, bouw mijas, renovatie granada"
+        },
+        "services": {
+            "new_build": {
+                "title": "Huis & Villabouw in Nerja | J&D Elite Builders",
+                "description": "Experts in nieuwbouwprojecten. Wij bouwen uw huis vanaf de grond op met professionele Europese normen."
+            },
+            "renovation": {
+                "title": "Volledige Renovaties Costa del Sol | Nerja & Marbella",
+                "description": "Complete renovatiediensten voor appartementen, huizen en villa's. Volledige transformatie met hoogwaardige afwerking."
+            },
+            "extension": {
+                "title": "Woninguitbouw & Aanbouw | Nerja",
+                "description": "Voeg ruimte toe aan uw woning met slimme en veilige aanbouw, naadloos geïntegreerd met het bestaande gebouw."
+            },
+            "pool": {
+                "title": "Zwembadbouw in Nerja & Costa del Sol",
+                "description": "Specialisten in het ontwerp en de bouw van alle soorten zwembaden: infinity, zoutwater en verwarmd."
+            },
+            "white_glove": {
+                "title": "Woningonderhoud & Vastgoedzorg | Nerja",
+                "description": "Technische service voor uw woning: waterdichting, tuinonderhoud en uitgebreid vastgoedbeheer."
+            },
+            "painting": {
+                "title": "Professionele Schilders in Nerja & Costa del Sol",
+                "description": "Schilderdiensten voor binnen en buiten. Snelheid, netheid en perfect resultaat voor elk project."
+            },
+            "plastering": {
+                "title": "Stukadoren & Wanden Gladmaken in Nerja | J&D Kwaliteit",
+                "description": "Stukadoors- en gladmaakprofessionals. Wij verwijderen 'gotelé' en bereiden uw wanden voor met perfecte gladde afwerkingen."
+            },
+            "flooring": {
+                "title": "Vloeren & Tegelzetten in Nerja",
+                "description": "Experts in het leggen van alle soorten vloeren, laminaat en tegels met precisienivellering."
+            },
+            "kitchen": {
+                "title": "Keukenrenovaties in Nerja & Costa del Sol",
+                "description": "Ontwerp en installatie van uw droomkeuken. Functionele renovaties met moderne en duurzame materialen."
+            },
+            "bathroom": {
+                "title": "Badkamerrenovaties in Nerja | J&D Elite Builders",
+                "description": "Complete badkamerrenovatie: van bad naar douche conversie, loodgieterswerk en professionele afwerking."
+            },
+            "interior": {
+                "title": "Interieurrenovaties & Woningverbetering | Nerja",
+                "description": "Wij ontwerpen en renoveren het interieur van uw woning om het comfort en de esthetiek in elke kamer te verbeteren."
+            },
+            "terrace": {
+                "title": "Terras- & Exterieurrenovatie in Nerja",
+                "description": "Upgrade uw terras of buitenruimte om in stijl te genieten van het weer aan de Costa del Sol."
+            },
+            "maintenance": {
+                "title": "Onderhoud & Reparaties op Costa del Sol | J&D Builders",
+                "description": "Volledige onderhoudsservice: algemene reparaties, waterlekken, zwembaden en tuinen. Bescherm uw investering in Nerja en Costa del Sol."
+            }
+        }
+    },
+    "ServicePage": {
+        "back_home": "Terug naar Home",
+        "construction_services": "Bouwdiensten",
+        "request_quote": "Offerte Aanvragen",
+        "why_trust_title": "Waarom kiezen voor J&D Elite Builders?",
+        "why_trust_text": "Opgericht door een lokale professional uit Nerja en een expert uit Nederland, combineert ons bedrijf mediterrane passie met Noord-Europese discipline en precisie. We bouwen niet alleen huizen, we creëren thuisen met internationale standaarden."
+    },
+    "Footer": {
+        "description": "Toonaangevend bouwbedrijf in Nerja en de Costa del Sol. Specialisten in volledige renovaties, nieuwbouw en onderhoud met Spaans-Nederlandse kwaliteit.",
+        "links": "Snelle Links",
+        "home": "Home",
+        "about": "Over Ons",
+        "portfolio": "Projecten",
+        "services": "Diensten",
+        "services_title": "Onze Diensten",
+        "renovations": "Volledige Renovaties",
+        "new_build": "Nieuwbouw",
+        "kitchens": "Keukens",
+        "maintenance": "Onderhoud",
+        "contact": "Contact",
+        "rights": "Alle rechten voorbehouden.",
+        "privacy": "Privacybeleid",
+        "cookies": "Cookiebeleid"
+    }
+}

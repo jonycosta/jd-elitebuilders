@@ -1,0 +1,109 @@
+import { BUSINESS_INFO, getContactInfo, type Locale } from "@/lib/contacts";
+
+interface JsonLdProps {
+    locale: string;
+}
+
+export const JsonLd = ({ locale }: JsonLdProps) => {
+    const contactInfo = getContactInfo(locale as Locale);
+
+    const structuredData = {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "@id": "https://jdelitebuilders.com",
+        "name": BUSINESS_INFO.name,
+        "image": "https://jdelitebuilders.com/logo-full.png",
+        "logo": "https://jdelitebuilders.com/logo.png",
+        "url": "https://jdelitebuilders.com",
+        "telephone": [BUSINESS_INFO.phones[0], BUSINESS_INFO.phones[1]],
+        "priceRange": "$$$",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": BUSINESS_INFO.address.street,
+            "addressLocality": BUSINESS_INFO.address.city,
+            "addressRegion": BUSINESS_INFO.address.region,
+            "postalCode": BUSINESS_INFO.address.postalCode,
+            "addressCountry": BUSINESS_INFO.address.country
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": BUSINESS_INFO.geo.latitude,
+            "longitude": BUSINESS_INFO.geo.longitude
+        },
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+                "opens": "08:00",
+                "closes": "18:00"
+            }
+        ],
+        "areaServed": [
+            {
+                "@type": "City",
+                "name": "Nerja",
+                "containedIn": {
+                    "@type": "AdministrativeArea",
+                    "name": "Málaga"
+                }
+            },
+            {
+                "@type": "City",
+                "name": "Frigiliana"
+            },
+            {
+                "@type": "City",
+                "name": "Torrox"
+            },
+            {
+                "@type": "City",
+                "name": "Málaga"
+            },
+            {
+                "@type": "City",
+                "name": "Marbella"
+            },
+            {
+                "@type": "City",
+                "name": "Fuengirola"
+            },
+            {
+                "@type": "City",
+                "name": "Mijas"
+            },
+            {
+                "@type": "City",
+                "name": "Granada"
+            },
+            {
+                "@type": "City",
+                "name": "La Herradura"
+            }
+        ],
+        "serviceType": [
+            "Construction",
+            "Home Renovation",
+            "New Build",
+            "Swimming Pool Construction",
+            "Kitchen Renovation",
+            "Bathroom Renovation",
+            "Painting Services",
+            "Waterproofing",
+            "Property Maintenance"
+        ],
+        "sameAs": [
+            BUSINESS_INFO.social.instagram,
+            BUSINESS_INFO.social.facebook
+        ],
+        "description": "Premium construction and renovation services in Nerja and Costa del Sol. High Dutch quality meets local Spanish expertise. Specialized in new builds, complete renovations, and luxury finishes.",
+        "knowsLanguage": ["Spanish", "English", "Dutch", "Swedish"],
+        "paymentAccepted": "Cash, Credit Card, Bank Transfer",
+    };
+
+    return (
+        <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        />
+    );
+};
