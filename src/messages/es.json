@@ -296,5 +296,22 @@
     "request_quote": "Solicitar Presupuesto",
     "why_trust_title": "¿Por qué confiar en J&D Elite Builders?",
     "why_trust_text": "Fundada por un profesional local de Nerja y un experto de Holanda, nuestra empresa combina la pasión mediterránea con la disciplina y precisión del norte de Europa. No solo construimos casas, creamos hogares con estándares internacionales."
+  },
+  "Footer": {
+    "description": "Empresa líder en construcción en Nerja y la Costa del Sol. Especialistas en reformas integrales, obra nueva y mantenimiento con calidad hispano-holandesa.",
+    "links": "Enlaces Rápidos",
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "portfolio": "Proyectos",
+    "services": "Servicios",
+    "services_title": "Nuestros Servicios",
+    "renovations": "Reformas Integrales",
+    "new_build": "Obra Nueva",
+    "kitchens": "Cocinas",
+    "maintenance": "Mantenimiento",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "cookies": "Política de Cookies"
   }
 }
