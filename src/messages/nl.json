@@ -66,6 +66,45 @@
         "cta_visit": "Gratis Bezoek & Waardebepaling Aanvragen"
     },
     "Services": {
+        "pillar_management": {
+            "title": "Vastgoedbeheer & Zorg",
+            "subtitle": "Wij zorgen voor uw huis als u weg bent. Gemoedsrust 24/7."
+        },
+        "pillar_construction": {
+            "title": "Bouw & Ontwerp",
+            "subtitle": "Wij bouwen en renoveren uw droomhuis in Spanje."
+        },
+        "management": {
+            "title": "Totaal Vastgoedbeheer",
+            "description": "Premium zorg voor afwezige eigenaren. Regelmatige inspecties, sleutelbeheer en stormcontroles. Wij zijn uw vertrouwde ogen in Spanje.",
+            "vision": "Bezit een huis in Spanje zonder de stress. Onze complete beheerservice zorgt ervoor dat uw eigendom altijd perfect, veilig en klaar voor uw komst is, zodat u zich nergens zorgen over hoeft te maken.",
+            "how_it_works": {
+                "title": "Hoe wij uw vastgoed beheren",
+                "steps": [
+                    {
+                        "title": "Opstarten ter plaatse",
+                        "desc": "Sleuteloverdracht en eerste inspectie van het hele pand."
+                    },
+                    {
+                        "title": "Regelmatige controles",
+                        "desc": "Wekelijkse of tweewekelijkse bezoeken voor water, licht, beveiliging en ventilatie."
+                    },
+                    {
+                        "title": "Transparante rapportage",
+                        "desc": "Real-time updates and foto's na elk bezoek via uw voorkeurskanaal."
+                    },
+                    {
+                        "title": "Snelle respons",
+                        "desc": "Directe actie na stormen of als er problemen worden ontdekt."
+                    }
+                ]
+            },
+            "benefits": [
+                "Sleutelbeheer",
+                "Regelmatige Inspecties",
+                "Noodhulp"
+            ]
+        },
         "new_build": {
             "title": "Nieuwbouw",
             "description": "Wij ontwerpen en bouwen de villa van uw dromen vanaf de basis. Integrale begeleiding van fundering tot sleuteloverdracht.",
@@ -103,10 +142,10 @@
             ]
         },
         "rehabilitation": {
-            "title": "Restouratie",
+            "title": "Restauratie",
             "description": "Experts in het herstellen van de schoonheid van oude landhuizen en historische panden, waarbij traditie wordt gecombineerd met modern comfort.",
             "benefits": [
-                "尊重 erfgoed",
+                "Respect voor erfgoed",
                 "Structurele Consolidatie",
                 "Modern Comfort"
             ]
@@ -121,12 +160,12 @@
             ]
         },
         "maintenance": {
-            "title": "Onderhoud & Reparaties",
-            "description": "Complete service voor uw woning: algemene reparaties, waterlekken, zwembad- en tuinonderhoud. Uw eigendom altijd in perfecte staat.",
+            "title": "Preventief Onderhoud",
+            "description": "Proactieve oplossingen om kostbare reparaties te voorkomen. Wij regelen loodgieterswerk, elektra en algemene reparaties met absolute betrouwbaarheid.",
             "benefits": [
-                "Reparaties & Herstel",
-                "Waterlekken & Leidingen",
-                "Zwembad- & Tuinonderhoud"
+                "Betrouwbare Reparaties",
+                "Preventieve Controles",
+                "Gekwalificeerd Team"
             ]
         },
         "painting": {
@@ -242,9 +281,9 @@
                 "title": "Zwembadbouw in Nerja & Costa del Sol",
                 "description": "Specialisten in het ontwerp en de bouw van alle soorten zwembaden: infinity, zoutwater en verwarmd."
             },
-            "white_glove": {
-                "title": "Woningonderhoud & Vastgoedzorg | Nerja",
-                "description": "Technische service voor uw woning: waterdichting, tuinonderhoud en uitgebreid vastgoedbeheer."
+            "management": {
+                "title": "Vastgoedbeheer & Woningzorg in Nerja | J&D Elite Builders",
+                "description": "Technische service voor uw woning: sleutels, inspecties, tuinonderhoud en uitgebreid vastgoedbeheer voor afwezige eigenaren."
             },
             "painting": {
                 "title": "Professionele Schilders in Nerja & Costa del Sol",
@@ -284,8 +323,10 @@
         "back_home": "Terug naar Home",
         "construction_services": "Bouwdiensten",
         "request_quote": "Offerte Aanvragen",
+        "vision_title": "Onze Visie",
+        "promo_msg": "Vraag vrijblijvend naar onze tarieven en profiteer van een scherpe prijs waarbij u zich nergens zorgen over hoeft te maken.",
         "why_trust_title": "Waarom kiezen voor J&D Elite Builders?",
-        "why_trust_text": "Opgericht door een lokale professional uit Nerja en een expert uit Nederland, combineert ons bedrijf mediterrane passie met Noord-Europese discipline en precisie. We bouwen niet alleen huizen, we creëren thuisen met internationale standaarden."
+        "why_trust_text": "Opgericht door een lokale professional uit Nerja en een expert uit Nederland, combineert ons bedrijf mediterrane passie met Noord-Europese discipline en precision. We bouwen niet alleen huizen, we creëren thuisen met internationale standaarden."
     },
     "Footer": {
         "description": "Toonaangevend bouwbedrijf in Nerja en de Costa del Sol. Specialisten in volledige renovaties, nieuwbouw en onderhoud met Spaans-Nederlandse kwaliteit.",

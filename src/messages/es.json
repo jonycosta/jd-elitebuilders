@@ -67,140 +67,109 @@
   },
   "cta_visit": "Solicitar Visita y Valoración Gratuita",
   "Services": {
-    "new_build": {
-      "title": "Obra Nueva",
-      "description": "Diseñamos y construimos la villa de tus sueños desde cero. Gestión integral desde los cimientos hasta la entrega de llaves.",
-      "benefits": [
-        "Arquitectura Moderna",
-        "Eficiencia Energética A+",
-        "Gestión de Licencias"
-      ]
+    "pillar_management": {
+      "title": "Gestión de Propiedad & Mantenimiento",
+      "subtitle": "Cuidamos tu casa cuando no estás. Tranquilidad total 24/7."
     },
-    "renovation": {
-      "title": "Reforma Integral",
-      "description": "Transformación completa de viviendas. Elevamos el estándar de tu propiedad con acabados de lujo y distribución optimizada.",
-      "benefits": [
-        "Revalorización del Inmueble",
-        "Diseño de Interiores",
-        "Instalaciones Nuevas"
-      ]
+    "pillar_construction": {
+      "title": "Construcción & Diseño",
+      "subtitle": "Construimos y reformamos la casa de tus sueños en España."
     },
-    "extension": {
-      "title": "Ampliación",
-      "description": "¿Necesitas más espacio? Añadimos metros cuadrados a tu hogar integrando la nueva estructura perfectamente con la existente.",
+    "management": {
+      "title": "Cuidado Total de Propiedad",
+      "description": "Tranquilidad absoluta para propietarios ausentes. Inspecciones periódicas, custodia de llaves y revisiones de seguridad. Somos tus ojos en España.",
+      "vision": "Disfruta de tu casa en España sin el estrés. Nuestro servicio de gestión integral garantiza que tu propiedad esté siempre perfecta, segura y lista para tu llegada, para que no tengas que preocuparte por nada.",
+      "how_it_works": {
+        "title": "Cómo Gestionamos tu Propiedad",
+        "steps": [
+          {
+            "title": "Configuración Inicial",
+            "desc": "Entrega de llaves y primera inspección técnica de toda la propiedad."
+          },
+          {
+            "title": "Revisiones Periódicas",
+            "desc": "Visitas semanales o quincenales para revisar agua, luz, seguridad y ventilación."
+          },
+          {
+            "title": "Informes Transparentes",
+            "desc": "Actualizaciones en tiempo real y fotos tras cada visita por tu canal preferido."
+          },
+          {
+            "title": "Respuesta Rápida",
+            "desc": "Acción inmediata tras tormentas o si se detecta cualquier incidencia en las revisiones."
+          }
+        ]
+      },
       "benefits": [
-        "Más Espacio Útil",
-        "Integración Estética",
-        "Sin Mudanzas"
-      ]
-    },
-    "pool": {
-      "title": "Piscinas de Diseño",
-      "description": "Piscinas infinity, de agua salada o climatizadas. El oasis perfecto para tu jardín con la última tecnología.",
-      "benefits": [
-        "Diseño Exclusivo",
-        "Sistemas de Sal",
-        "Domótica Integrada"
-      ]
-    },
-    "rehabilitation": {
-      "title": "Rehabilitación",
-      "description": "Expertos en recuperar la belleza de fincas antiguas y estructuras históricas, combinando tradición con confort moderno.",
-      "benefits": [
-        "Respeto Patrimonial",
-        "Consolidación Estructural",
-        "Confort Moderno"
-      ]
-    },
-    "humidity": {
-      "title": "Reparación de Humedades",
-      "description": "Eliminamos el problema de raiz. Diagnóstico experto y tratamientos definitivos para capilaridad, filtraciones y condensación. Recupera la salud de tu hogar.",
-      "benefits": [
-        "Diagnóstico con Cámara Térmica",
-        "Tratamientos Garantizados",
-        "Ambiente Saludable"
-      ]
-    },
-    "waterproofing": {
-      "title": "Impermeabilización y Protección",
-      "description": "Un pequeño problema de humedad hoy puede convertirse en una reparación costosa mañana. Protegemos tu inversión contra filtraciones en techos, terrazas y fachadas con soluciones duraderas.",
-      "benefits": [
-        "Prevención de Filtraciones",
-        "Materiales de Alta Durabilidad",
-        "Garantía de Estanqueidad"
+        "Custodia de Llaves",
+        "Revisiones Periódicas",
+        "Atención de Emergencias"
       ]
     },
     "maintenance": {
-      "title": "Mantenimiento y Reparaciones",
-      "description": "Servicio integral para tu hogar: reparaciones generales, arreglo de averías de agua, mantenimiento de piscinas y jardines. Tu propiedad siempre en perfecto estado.",
+      "title": "Mantenimiento Preventivo",
+      "description": "Soluciones proactivas para evitar reparaciones costosas. Fontanería, electricidad y arreglos generales con total fiabilidad.",
       "benefits": [
-        "Reparaciones y Arreglos",
-        "Averías de Agua y Tuberías",
-        "Mantenimiento Piscinas y Jardines"
+        "Reparaciones Fiables",
+        "Control Preventivo",
+        "Equipo de Confianza"
       ]
     },
-    "painting": {
-      "title": "Pintura Profesional",
-      "description": "Renovamos tus espacios con acabados perfectos. Especialistas en interiores y fachadas con materiales de alta calidad.",
+    "new_build": {
+      "title": "Villas de Obra Nueva",
+      "description": "Tu villa soñada desde cero. Gestionamos licencias, arquitectos y construcción. Llave en mano.",
       "benefits": [
-        "Acabados Lisos",
-        "Pintura de Alta Resistencia",
-        "Limpieza y Rapidez"
+        "Diseño Moderno",
+        "Gestión de Licencias",
+        "Llave en Mano"
       ]
     },
-    "plastering": {
-      "title": "Yeso y Alisados",
-      "description": "Profesionales en aplicaciones de yeso y alisado de paredes. Acabados lisos impecables listos para pintar.",
+    "renovation": {
+      "title": "Reformas Integrales",
+      "description": "Transformación completa de tu propiedad. Nueva distribución, estilo moderno y mayor valor. A tiempo y en presupuesto.",
       "benefits": [
-        "Alisado de Gotelé",
-        "Yeso Proyectado",
-        "Acabados Espejo"
-      ]
-    },
-    "flooring": {
-      "title": "Solerías y Alicatados",
-      "description": "Expertos en colocación de pavimentos y revestimientos. Suelos perfectamente nivelados con acabados de alta calidad.",
-      "benefits": [
-        "Nivelación de Precisión",
-        "Grandes Formatos",
-        "Materiales de Lujo"
+        "Cambio Total",
+        "Mayor Valor",
+        "Estilo Moderno"
       ]
     },
     "kitchen": {
-      "title": "Reformas de Cocinas",
-      "description": "Transformamos tu cocina en un espacio funcional y moderno. Diseño a medida y materiales de primera calidad.",
+      "title": "Cocinas & Baños",
+      "description": "Cocinas modernas y baños de lujo. Las estancias más importantes de tu casa, renovadas.",
       "benefits": [
-        "Diseño Ergonómico",
-        "Materiales Premium",
-        "Instalación Completa"
+        "Máxima Calidad",
+        "Diseño a Medida",
+        "Instalación Rápida"
       ]
     },
-    "bathroom": {
-      "title": "Reformas de Baños",
-      "description": "Crea tu propio oasis personal. Reformas de baños con acabados de lujo y máxima optimización del espacio.",
+    "pool": {
+      "title": "Piscinas & Exterior",
+      "description": "Disfruta del sol. Piscinas, terrazas y jardines diseñados para el relax y el bajo mantenimiento.",
       "benefits": [
-        "Grifería de Diseño",
-        "Platos de Ducha a Medida",
-        "Acabados Hidrófugos"
+        "Piscinas Salinas",
+        "Suelos Exterior",
+        "Mantenimiento Fácil"
       ]
+    }
+  },
+  "Process": {
+    "title": "Cómo Trabajamos",
+    "subtitle": "Sencillo, transparente y sin complicaciones.",
+    "step1": {
+      "title": "Contáctanos",
+      "desc": "Cuéntanos qué necesitas. Hablamos Inglés."
     },
-    "interior": {
-      "title": "Reformas Interiores",
-      "description": "Reforma completa de interiores: suelos, tabiquería, iluminación y acabados. Tu hogar como nuevo.",
-      "benefits": [
-        "Redistribución de Espacios",
-        "Iluminación LED",
-        "Suelos de Alta Calidad"
-      ]
+    "step2": {
+      "title": "Puntualidad y Respeto",
+      "desc": "Valoramos tu tiempo. Acudimos puntualmente a cada cita, sin esperas."
     },
-    "terrace": {
-      "title": "Terrazas y Exteriores",
-      "description": "Aprovecha el clima de la Costa del Sol. Reformas de terrazas, pérgolas y zonas de relax exterior.",
-      "benefits": [
-        "Zonas Chill-out",
-        "Pavimentos Antideslizantes",
-        "Iluminación Exterior"
-      ]
+    "step3": {
+      "title": "Presupuesto Claro",
+      "desc": "Precio detallado. Sin costes ocultos."
+    },
+    "step4": {
+      "title": "Ejecución",
+      "desc": "Hacemos el trabajo. Te mantenemos informado."
     }
   },
   "About": {
@@ -252,9 +221,9 @@
         "title": "Construcción de Piscinas en Nerja y Costa del Sol",
         "description": "Especialistas en diseño y construcción de piscinas de todo tipo: infinity, salinas y climatizadas."
       },
-      "white_glove": {
-        "title": "Mantenimiento y Reparación de Viviendas | Nerja",
-        "description": "Servicio técnico para su hogar: impermeabilizaciones, cuidado de jardines y mantenimiento integral de propiedades."
+      "management": {
+        "title": "Gestión de Propiedad y Cuidado de Hogar en Nerja | J&D Elite Builders",
+        "description": "Servicio técnico para tu hogar: llaves, inspecciones, cuidado de jardín y gestión integral de propiedades para propietarios ausentes."
       },
       "painting": {
         "title": "Pintores Profesionales en Nerja y Costa del Sol",
@@ -294,6 +263,8 @@
     "back_home": "Volver al Inicio",
     "construction_services": "Servicios de Construcción",
     "request_quote": "Solicitar Presupuesto",
+    "vision_title": "Nuestra Visión",
+    "promo_msg": "Infórmate sin compromiso de nuestras tarifas y benefíciate de un precio económico y en donde no tengas que preocuparte por nada.",
     "why_trust_title": "¿Por qué confiar en J&D Elite Builders?",
     "why_trust_text": "Fundada por un profesional local de Nerja y un experto de Holanda, nuestra empresa combina la pasión mediterránea con la disciplina y precisión del norte de Europa. No solo construimos casas, creamos hogares con estándares internacionales."
   },

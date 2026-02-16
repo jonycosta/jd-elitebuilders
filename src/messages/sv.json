@@ -66,6 +66,45 @@
         "cta_visit": "Boka gratis hembesök & värdering"
     },
     "Services": {
+        "pillar_management": {
+            "title": "Fastighetsförvaltning & Skötsel",
+            "subtitle": "Vi tar hand om ditt hem när du är borta. Trygghet 24/7."
+        },
+        "pillar_construction": {
+            "title": "Bygg & Design",
+            "subtitle": "Vi bygger och renoverar ditt drömhem i Spanien."
+        },
+        "management": {
+            "title": "Total Fastighetsskötsel",
+            "description": "Premiumskötsel för frånvarande ägare. Regelbundna inspektioner, nyckelhantering och stormkontroller. Vi är dina pålitliga ögon i Spanien.",
+            "vision": "Äg ett hem i Spanien utan stress. Vår kompletta förvaltningstjänst säkerställer att din fastighet alltid är perfekt, säker och redo för din ankomst, så att du inte behöver oroa dig för någonting.",
+            "how_it_works": {
+                "title": "Hur vi förvaltar din fastighet",
+                "steps": [
+                    {
+                        "title": "Uppstart på plats",
+                        "desc": "Nyckelöverlämning och första inspektion av hela fastigheten."
+                    },
+                    {
+                        "title": "Regelbundna kontroller",
+                        "desc": "Veckovisa eller varannan vecka besök för att kontrollera vatten, ljus, säkerhet och ventilation."
+                    },
+                    {
+                        "title": "Transparent rapportering",
+                        "desc": "Realtidsuppdateringar och foton efter varje besök via din föredragna kanal."
+                    },
+                    {
+                        "title": "Snabb respons",
+                        "desc": "Omedelbar åtgärd efter stormar eller om problem upptäcks."
+                    }
+                ]
+            },
+            "benefits": [
+                "Nyckelhantering",
+                "Regelbundna Kontroller",
+                "Nödhjälp"
+            ]
+        },
         "new_build": {
             "title": "Nyproduktion",
             "description": "Vi designar och bygger dina drömmars villa från grunden. Helhetsansvar från grundläggning till nyckelöverlämning.",
@@ -86,7 +125,7 @@
         },
         "extension": {
             "title": "Tillbyggnad",
-            "description": "Behöver du mer plats? Vi lägger till kvadratmeter i ditt hem och integrerar den nya strukturen perfekt med den befintliga.",
+            "description": "Behöver du meer plats? Vi lägger till kvadratmeter i ditt hem och integrerar den nieuwe structuur perfect met de bestaande.",
             "benefits": [
                 "Mer boyta",
                 "Estetisk integration",
@@ -95,7 +134,7 @@
         },
         "pool": {
             "title": "Designpooler",
-            "description": "Infinity, saltvatten eller uppvärmda pooler. Den perfekta oasen för din trädgård med den senaste tekniken.",
+            "description": "Infinity, saltvatten och uppvärmda pooler. Den perfekta oasen för din trädgård med den senaste tekniken.",
             "benefits": [
                 "Exklusiv Design",
                 "Saltsystem",
@@ -104,7 +143,7 @@
         },
         "rehabilitation": {
             "title": "Restaurering",
-            "description": "Experter på att återställa skönheten i gamla gods och historiska strukturer, kombinera tradition med modern komfort.",
+            "description": "Experter på att återställa skönheten i gamla gods och historiska strukturer, kombinera tradition met modern komfort.",
             "benefits": [
                 "Respekt för kulturarv",
                 "Strukturell konsolidering",
@@ -121,17 +160,17 @@
             ]
         },
         "maintenance": {
-            "title": "Underhåll & Reparationer",
-            "description": "Omfattande service för ditt hem: generella reparationer, vattenläckage, pool- och trädgårdsskötsel. Din fastighet alltid i perfekt skick.",
+            "title": "Förebyggande Underhåll",
+            "description": "Proaktiva lösningar för att undvika kostsamma reparationer. Vi hanterar VVS, el och generella reparationer med absolut tillförlitlighet.",
             "benefits": [
-                "Reparationer & Lagningar",
-                "Vattenläckor & Rör",
-                "Pool- & Trädgårdsskötsel"
+                "Tillförlitliga Reparationer",
+                "Förebyggande Kontroller",
+                "Kvalificerat Team"
             ]
         },
         "painting": {
             "title": "Professionell Målning",
-            "description": "Vi förnyar dina utrymmen med perfekta ytfinishar. Specialister på interiörer och fasader med högkvalitativa material.",
+            "description": "Vi förnyar dina utrymmen met perfekta ytfinishar. Specialister op interiörer en fasader met hoogwaardige materialen.",
             "benefits": [
                 "Släta Finishar",
                 "Slitstark Färg",
@@ -140,7 +179,7 @@
         },
         "plastering": {
             "title": "Gips och Utjämning",
-            "description": "Proffs på gipsapplikationer och utjämning av väggar. Oklanderliga släta ytor redo för målning.",
+            "description": "Proffs op gipsapplikationer en utjämning van väggar. Oklanderliga släta ytor redo voor målning.",
             "benefits": [
                 "Utjämning av Gotelé",
                 "Projektion av Gips",
@@ -149,7 +188,7 @@
         },
         "flooring": {
             "title": "Golvläggning och Kakelsättning",
-            "description": "Experter på installation av golv och beklädnad. Perfekt nivellerade golv med högkvalitativa finishar.",
+            "description": "Experter op installation van golv en beklädnad. Perfekt nivellerade golv met hoogwaardige finishar.",
             "benefits": [
                 "Precisionsnivellering",
                 "Stora Format",
@@ -158,7 +197,7 @@
         },
         "kitchen": {
             "title": "Köksrenoveringar",
-            "description": "Förvandla ditt kök till ett funktionellt och modernt utrymme. Anpassad design och material av högsta kvalitet.",
+            "description": "Förvandla ditt kök till ett funktionellt och modernt utrymme. Anpassad design och material av högsta kwaliteit.",
             "benefits": [
                 "Ergonomisk Design",
                 "Premiummaterial",
@@ -167,7 +206,7 @@
         },
         "bathroom": {
             "title": "Badrumsrenoveringar",
-            "description": "Skapa din egen personliga oas. Badrumsrenoveringar med lyxiga ytfinishar och maximal utrymmesoptimering.",
+            "description": "Skapa din egen personliga oas. Badrumsrenoveringar met lyxiga ytfinishar en maximale utrymmesoptimering.",
             "benefits": [
                 "Designerarmaturer",
                 "Måttbeställda Duschkar",
@@ -176,16 +215,16 @@
         },
         "interior": {
             "title": "Interiörrenoveringar",
-            "description": "Komplett interiörrenovering: golv, väggar, belysning och ytfinishar. Ditt hem som nytt.",
+            "description": "Komplett interiörrenovering: golv, väggar, belysning en ytfinishar. Ditt hem som nytt.",
             "benefits": [
                 "Utrymmesomfördelning",
                 "LED-belysning",
-                "Golv av hög kvalitet"
+                "Golv av hög kwaliteit"
             ]
         },
         "terrace": {
             "title": "Terrasser och Utomhus",
-            "description": "Dra nytta av vädret på Costa del Sol. Renoveringar av terrasser, pergolor och utomhusområden för avkoppling.",
+            "description": "Dra nytta van het weer op Costa del Sol. Renoveringar van terrasser, pergolor en utomhusonderdelen voor afkopping.",
             "benefits": [
                 "Chill-out-zoner",
                 "Halkfria Golv",
@@ -242,9 +281,9 @@
                 "title": "Bygga Pool i Nerja & Costa del Sol",
                 "description": "Specialister på design och konstruktion av alla typer av pooler: infinity, saltvatten och uppvärmda."
             },
-            "white_glove": {
-                "title": "Underhåll & Skötsel av Fastigheter | Nerja",
-                "description": "Teknisk service för ditt hem: vattentätning, trädgårdsskötsel och omfattande fastighetsunderhåll."
+            "management": {
+                "title": "Fastighetsförvaltning & Hemtjänst i Nerja | J&D Elite Builders",
+                "description": "Teknisk service för ditt hem: nycklar, inspektioner, trädgårdsskötsel och omfattande fastighetsförvaltning för frånvarande ägare."
             },
             "painting": {
                 "title": "Professionella Målare i Nerja & Costa del Sol",
@@ -284,6 +323,8 @@
         "back_home": "Tillbaka till Start",
         "construction_services": "Byggtjänster",
         "request_quote": "Begär Offert",
+        "vision_title": "Vår Vision",
+        "promo_msg": "Fråga efter våra priser utan förpliktelser och dra nytta av ett prisvärt alternativ där du inte behöver oroa dig för någonting.",
         "why_trust_title": "Varför lita på J&D Elite Builders?",
         "why_trust_text": "Grundat av en lokal yrkesman från Nerja och en expert från Holland, kombinerar vårt företag medelhavspassion med nordeuropeisk disciplin och precision. Vi bygger inte bara hus, vi skapar hem med internationell standard."
     },

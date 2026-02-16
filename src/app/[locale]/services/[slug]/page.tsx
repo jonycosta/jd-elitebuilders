@@ -24,7 +24,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
     const tCommon = await getTranslations({ locale, namespace: "ServicePage" });
 
     // Validate slug
-    const validSlugs = ["new_build", "renovation", "extension", "pool", "rehabilitation", "waterproofing", "maintenance", "painting", "kitchen", "bathroom", "interior", "terrace", "plastering", "flooring"];
+    const validSlugs = ["management", "new_build", "renovation", "extension", "pool", "rehabilitation", "waterproofing", "maintenance", "painting", "kitchen", "bathroom", "interior", "terrace", "plastering", "flooring"];
     if (!validSlugs.includes(slug)) {
         notFound();
     }
@@ -33,7 +33,13 @@ export default async function ServicePage({ params }: ServicePageProps) {
     const description = t(`${slug}.description`);
     const benefits = t.raw(`${slug}.benefits`) as string[];
 
+    // Specialized content for management
+    const hasDetailedProcess = slug === "management";
+    const vision = hasDetailedProcess ? t(`${slug}.vision`) : null;
+    const managementSteps = hasDetailedProcess ? t.raw(`${slug}.how_it_works.steps`) as { title: string; desc: string }[] : [];
+
     const serviceImages: Record<string, string> = {
+        management: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=1200",
         kitchen: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&q=80&w=1200",
         bathroom: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&q=80&w=1200",
         interior: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=1200",
@@ -101,7 +107,6 @@ export default async function ServicePage({ params }: ServicePageProps) {
                                 fill
                                 className="object-cover group-hover:scale-105 transition-transform duration-700"
                                 priority
-                            // Removed invalid fallback prop
                             />
                         </div>
                     </div>
@@ -110,6 +115,53 @@ export default async function ServicePage({ params }: ServicePageProps) {
                 {/* Design Accents */}
                 <div className="absolute top-0 right-0 w-1/4 h-full bg-bronze/5 -skew-x-12 -z-10" />
             </section>
+
+            {/* Detailed Management Content */}
+            {hasDetailedProcess && (
+                <section className="py-24 bg-white border-y border-stone/10">
+                    <div className="container mx-auto px-6">
+                        <div className="grid lg:grid-cols-3 gap-16">
+                            <div className="lg:col-span-1">
+                                <h2 className="text-3xl font-black text-navy mb-6 tracking-tight">{tCommon("vision_title")}</h2>
+                                <p className="text-lg text-stone leading-relaxed italic border-l-4 border-bronze pl-6 py-2">
+                                    "{vision}"
+                                </p>
+                            </div>
+                            <div className="lg:col-span-2">
+                                <h2 className="text-3xl font-black text-navy mb-12 tracking-tight">{t(`${slug}.how_it_works.title`)}</h2>
+                                <div className="grid sm:grid-cols-2 gap-x-12 gap-y-12">
+                                    {managementSteps.map((step, index) => (
+                                        <div key={index} className="relative pl-16">
+                                            <div className="absolute left-0 top-0 w-12 h-12 bg-navy text-white rounded-xl flex items-center justify-center font-bold text-xl shadow-lg">
+                                                {index + 1}
+                                            </div>
+                                            <h3 className="text-xl font-bold text-navy mb-3">{step.title}</h3>
+                                            <p className="text-stone leading-relaxed">{step.desc}</p>
+                                        </div>
+                                    ))}
+                                </div>
+
+                                {/* Promo Banner */}
+                                <div className="mt-16 bg-navy p-8 rounded-2xl text-white shadow-2xl relative overflow-hidden group">
+                                    <div className="relative z-10 flex flex-col md:flex-row items-center gap-8">
+                                        <p className="text-xl font-bold leading-relaxed flex-1 italic">
+                                            {tCommon("promo_msg")}
+                                        </p>
+                                        <Link
+                                            href="/#contact"
+                                            className="whitespace-nowrap bg-bronze text-white px-8 py-4 rounded-sm font-bold uppercase tracking-widest hover:bg-white hover:text-bronze transition-all shadow-lg"
+                                        >
+                                            {tCommon("request_quote")}
+                                        </Link>
+                                    </div>
+                                    {/* Accent background decoration */}
+                                    <div className="absolute -right-10 -bottom-10 w-40 h-40 bg-white/5 rounded-full blur-3xl group-hover:bg-white/10 transition-colors" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            )}
 
             {/* Why Us / Spanish-Dutch Story Snippet */}
             <section className="py-24 bg-cream">

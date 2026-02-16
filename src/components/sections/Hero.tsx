@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/routing";
 
 export const Hero = () => {
     const t = useTranslations("Hero");
@@ -37,20 +38,34 @@ export const Hero = () => {
                         <span className="inline-block text-bronze font-black tracking-[0.3em] uppercase text-base mb-6 border-b-2 border-bronze/20 pb-2">
                             {t("tagline")}
                         </span>
-                        <h1 className="text-5xl lg:text-8xl font-black text-navy leading-tight mb-8">
+                        <h1 className="text-3xl sm:text-4xl lg:text-8xl font-black text-navy leading-tight mb-8">
                             {t("title_start")} <span className="text-bronze italic font-serif">{t("title_highlight")}</span> {t("title_end")}
                         </h1>
-                        <p className="text-lg lg:text-xl text-navy-light max-w-2xl mb-12 font-medium tracking-wide leading-relaxed">
+                        <p className="text-lg lg:text-xl text-navy-light max-w-2xl mb-8 font-medium tracking-wide leading-relaxed">
                             {t("description")}
                         </p>
 
+                        {/* Trust Badges - Simple & Direct */}
+                        <div className="flex flex-wrap gap-4 mb-10">
+                            <span className="px-4 py-2 bg-navy/5 rounded-full text-xs font-bold text-navy uppercase tracking-widest border border-navy/10 flex items-center gap-2">
+                                🇪🇸 🇬🇧 English & Spanish Team
+                            </span>
+                            <span className="px-4 py-2 bg-bronze/10 rounded-full text-xs font-bold text-bronze uppercase tracking-widest border border-bronze/20 flex items-center gap-2">
+                                🔑 Property Management
+                            </span>
+                            <span className="px-4 py-2 bg-navy/5 rounded-full text-xs font-bold text-navy uppercase tracking-widest border border-navy/10 flex items-center gap-2">
+                                🏗️ Full Renovations
+                            </span>
+                        </div>
+
+
                         <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                            <button className="bg-navy text-white px-10 py-5 rounded-sm font-bold uppercase tracking-widest hover:bg-navy-light transition-smooth flex items-center justify-center gap-3 shadow-xl shadow-navy/20 group">
+                            <Link href="/quote" className="bg-navy text-white px-10 py-5 rounded-sm font-bold uppercase tracking-widest hover:bg-navy-light transition-smooth flex items-center justify-center gap-3 shadow-xl shadow-navy/20 group">
                                 {t("cta_primary")}
                                 <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
-                            </button>
+                            </Link>
                             <a
-                                href="#portfolio"
+                                href="#process"
                                 className="border-2 border-navy/10 backdrop-blur-sm bg-white/50 text-navy px-10 py-5 rounded-sm font-bold uppercase tracking-widest hover:bg-white hover:text-bronze transition-smooth hover:border-bronze shadow-lg text-center"
                             >
                                 {t("cta_secondary")}

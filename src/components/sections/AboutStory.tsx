@@ -31,7 +31,7 @@ export const AboutStory = () => {
                         <span className="text-bronze font-bold tracking-[0.2em] uppercase text-xs mb-4 inline-block">
                             {t("subtitle")}
                         </span>
-                        <h2 className="text-4xl lg:text-6xl font-black text-navy leading-tight mb-8">
+                        <h2 className="text-3xl sm:text-4xl lg:text-6xl font-black text-navy leading-tight mb-8">
                             {t("title")}
                         </h2>
 
