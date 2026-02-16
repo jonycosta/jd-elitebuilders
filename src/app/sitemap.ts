@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 const locales = ['es', 'en', 'sv', 'nl'];
-const services = ["new_build", "renovation", "extension", "pool", "rehabilitation", "waterproofing", "maintenance", "painting", "kitchen", "bathroom", "interior", "terrace", "plastering", "flooring"];
+const services = ["management", "new_build", "renovation", "extension", "pool", "rehabilitation", "waterproofing", "maintenance", "painting", "kitchen", "bathroom", "interior", "terrace", "plastering", "flooring"];
 const baseUrl = 'https://jdelitebuilders.com'; // Placeholder domain
 
 export default function sitemap(): MetadataRoute.Sitemap {

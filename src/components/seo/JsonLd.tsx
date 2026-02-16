@@ -81,6 +81,9 @@ export const JsonLd = ({ locale }: JsonLdProps) => {
             }
         ],
         "serviceType": [
+            "Property Management",
+            "Key Holding",
+            "Vacation Home Care",
             "Construction",
             "Home Renovation",
             "New Build",
@@ -89,13 +92,15 @@ export const JsonLd = ({ locale }: JsonLdProps) => {
             "Bathroom Renovation",
             "Painting Services",
             "Waterproofing",
-            "Property Maintenance"
+            "Property Maintenance",
+            "Plastering",
+            "Flooring"
         ],
         "sameAs": [
             BUSINESS_INFO.social.instagram,
             BUSINESS_INFO.social.facebook
         ],
-        "description": "Premium construction and renovation services in Nerja and Costa del Sol. High Dutch quality meets local Spanish expertise. Specialized in new builds, complete renovations, and luxury finishes.",
+        "description": "J&D Elite Builders provides premium construction, renovation, and property management services in Nerja and Costa del Sol. High Dutch quality meets local Spanish expertise. Specialized in luxury home care for international owners, new builds, and complete villas transformation.",
         "knowsLanguage": ["Spanish", "English", "Dutch", "Swedish"],
         "paymentAccepted": "Cash, Credit Card, Bank Transfer",
     };

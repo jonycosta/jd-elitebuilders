@@ -119,10 +119,10 @@ function getOpenGraphLocale(locale: Locale): string {
  */
 function generateKeywords(locale: Locale): string {
     const keywordSets: Record<Locale, string> = {
-        es: 'reformas nerja, construcción costa del sol, reformas málaga, construcción nerja, piscinas málaga, reformas integrales, obra nueva, J&D Elite Builders, reformas marbella, construcción frigiliana, reformas torrox, albañilería nerja',
-        en: 'renovation nerja, construction costa del sol, home renovation málaga, builders nerja, swimming pools málaga, complete renovation, new construction, J&D Elite Builders, renovation marbella, construction frigiliana, builders torrox',
-        sv: 'renovering nerja, byggföretag costa del sol, husrenovering málaga, byggare nerja, poolbyggare málaga, totalrenovering, nybyggnation, J&D Elite Builders',
-        nl: 'verbouwing nerja, bouwbedrijf costa del sol, huis renovatie málaga, aannemers nerja, zwembad aanleg málaga, complete renovatie, nieuwbouw, J&D Elite Builders',
+        es: 'reformas nerja, construcción costa del sol, gestión de propiedades nerja, reformas málaga, constructor nerja, piscinas málaga, reformas integrales, obra nueva marbella, reformas frigiliana, construcción torrox, albañilería nerja, mantenimiento de casas nerja, custodia de llaves nerja, reformas de lujo costa del sol',
+        en: 'renovation nerja, construction costa del sol, property management nerja, home renovation málaga, builders nerja, swimming pools málaga, complete renovation, new construction marbella, renovation frigiliana, builders torrox, key holding nerja, luxury villa renovation costa del sol, home care spain',
+        sv: 'renovering nerja, fastighetsförvaltning nerja, byggföretag costa del sol, husrenovering málaga, byggare nerja, poolbyggare málaga, totalrenovering, nybyggnation marbella, husutbyggnad nerja, nyckelvakt nerja, lyxrenovering spanien',
+        nl: 'verbouwing nerja, vastgoedbeheer nerja, bouwbedrijf costa del sol, huis renovatie málaga, aannemers nerja, zwembad aanleg málaga, complete renovatie, nieuwbouw marbella, woningonderhoud spanje, sleutelbeheer nerja, luxe villa verbouwing spanje',
     };
     return keywordSets[locale] || keywordSets.es;
 }

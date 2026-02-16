@@ -26,7 +26,7 @@ export const Hero = () => {
             <div className="relative z-10 container mx-auto px-6 text-center lg:text-left flex flex-col lg:flex-row items-center justify-between gap-12">
                 {/* Brand Overlay Integration - Elegant Watermark */}
                 <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] opacity-10 pointer-events-none -z-10 select-none mix-blend-soft-light">
-                    <img src="/logo.png" alt="" className="w-full h-full object-contain filter brightness-0 invert" />
+                    <img src="/logo.png" alt="J&D Elite Builders Watermark" className="w-full h-full object-contain filter brightness-0 invert" />
                 </div>
 
                 <div className="max-w-4xl">
@@ -39,7 +39,7 @@ export const Hero = () => {
                             {t("tagline")}
                         </span>
                         <h1 className="text-3xl sm:text-4xl lg:text-8xl font-black text-navy leading-tight mb-8">
-                            {t("title_start")} <span className="text-bronze italic font-serif">{t("title_highlight")}</span> {t("title_end")}
+                            {t("title_start")} <span className="text-bronze italic font-serif" title="Elite Construction & Management">{t("title_highlight")}</span> {t("title_end")}
                         </h1>
                         <p className="text-lg lg:text-xl text-navy-light max-w-2xl mb-8 font-medium tracking-wide leading-relaxed">
                             {t("description")}

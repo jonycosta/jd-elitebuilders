@@ -258,11 +258,11 @@
     },
     "SEO": {
         "home": {
-            "title": "J&D Elite Builders | Renovaties & Bouw in Nerja, Málaga & Costa del Sol",
-            "description": "Toonaangevend bedrijf voor complete renovaties, villabouw en premium vastgoeddiensten aan Costa del Sol. Wij bedienen Nerja, Frigiliana, Torrox, Málaga, Marbella, Fuengirola, Mijas & Granada. Spaans-Nederlandse kwaliteit.",
-            "og_title": "J&D Elite Builders - Luxe Renovaties Costa del Sol",
-            "og_description": "Expert constructie en exclusieve renovaties. Nerja, Málaga, Marbella. Nederlandse precisie + lokale expertise.",
-            "keywords": "verbouwing nerja, bouwbedrijf costa del sol, huis renovatie málaga, aannemers nerja, zwembad aanleg málaga, complete renovatie, nieuwbouw marbella, verbouwing frigiliana, bouw torrox, metselaar nerja, verbouwing fuengirola, bouw mijas, renovatie granada"
+            "title": "J&D Elite Builders | Luxe Villa Renovatie & Bouw in Nerja",
+            "description": "Premium bouw en complete renovatie in Nerja & Costa del Sol. Specialisten in luxe villa's en totaal vastgoedbeheer voor internationale eigenaren. Nederlandse precisie.",
+            "og_title": "J&D Elite Builders - Luxe Renovaties & Vastgoedbeheer",
+            "og_description": "Exclusieve woningtransformaties en betrouwbaar vastgoedbeheer in Nerja, Málaga & Marbella. Nederlandse kwaliteit ontmoet lokale expertise.",
+            "keywords": "villa renovatie nerja, luxe bouwbedrijf costa del sol, vastgoedbeheer nerja, woningonderhoud spanje, nederlandse aannemer málaga, sleutelbeheer nerja, zwembadbouw nerja, keukenrenovatie málaga"
         },
         "services": {
             "new_build": {
@@ -282,8 +282,8 @@
                 "description": "Specialisten in het ontwerp en de bouw van alle soorten zwembaden: infinity, zoutwater en verwarmd."
             },
             "management": {
-                "title": "Vastgoedbeheer & Woningzorg in Nerja | J&D Elite Builders",
-                "description": "Technische service voor uw woning: sleutels, inspecties, tuinonderhoud en uitgebreid vastgoedbeheer voor afwezige eigenaren."
+                "title": "Vastgoedbeheer Nerja | Zorgeloos Woningbeheer & Sleutelservice",
+                "description": "Volledig beheer voor afwezige eigenaren: sleutelbeheer, regelmatige controles en onderhoud. Uw vertrouwde ogen aan de Costa del Sol."
             },
             "painting": {
                 "title": "Professionele Schilders in Nerja & Costa del Sol",

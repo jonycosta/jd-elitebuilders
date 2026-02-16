@@ -198,11 +198,11 @@
   },
   "SEO": {
     "home": {
-      "title": "J&D Elite Builders | Reformas y Construcción en Nerja, Málaga y Costa del Sol",
-      "description": "Empresa líder en reformas integrales, construcción de villas y servicios premium en Costa del Sol. Atendemos Nerja, Frigiliana, Torrox, Málaga, Marbella, Fuengirola, Mijas y Granada. Calidad hispano-holandesa.",
-      "og_title": "J&D Elite Builders - Reformas de Lujo en Costa del Sol",
-      "og_description": "Expertos en construcción y reformas de alto standing. Nerja, Málaga, Marbella. Precisión holandesa + experiencia local.",
-      "keywords": "reformas nerja, construcción costa del sol, reformas málaga, constructor nerja, piscinas málaga, reformas integrales, obra nueva marbella, reformas frigiliana, construcción torrox, albañil nerja, reformas fuengirola, construcción mijas, reformas granada"
+      "title": "J&D Elite Builders | Reformas de Lujo y Construcción en Nerja",
+      "description": "Servicios premium de construcción y reformas integrales en Nerja y Costa del Sol. Especialistas en villas exclusivas y gestión de propiedades para extranjeros. Calidad y precisión holandesa.",
+      "og_title": "J&D Elite Builders - Reformas de Alto Standing y Gestión",
+      "og_description": "Transformación de viviendas exclusivas y gestión de confianza en Nerja, Málaga y Marbella. Calidad holandesa con experiencia local.",
+      "keywords": "reformas de lujo nerja, construcción costa del sol, gestión de propiedades nerja, reformas integrales málaga, custodia de llaves nerja, piscinas de diseño málaga, reformas marbella, obra nueva nerja"
     },
     "services": {
       "new_build": {
@@ -222,8 +222,8 @@
         "description": "Especialistas en diseño y construcción de piscinas de todo tipo: infinity, salinas y climatizadas."
       },
       "management": {
-        "title": "Gestión de Propiedad y Cuidado de Hogar en Nerja | J&D Elite Builders",
-        "description": "Servicio técnico para tu hogar: llaves, inspecciones, cuidado de jardín y gestión integral de propiedades para propietarios ausentes."
+        "title": "Gestión de Propiedades Nerja | Cuidado de Hogar y Llaves",
+        "description": "Gestión integral para propietarios ausentes: custodia de llaves, inspecciones y mantenimiento. La tranquilidad que buscas en la Costa del Sol."
       },
       "painting": {
         "title": "Pintores Profesionales en Nerja y Costa del Sol",

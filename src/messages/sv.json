@@ -258,11 +258,11 @@
     },
     "SEO": {
         "home": {
-            "title": "J&D Elite Builders | Renovering & Bygg i Nerja, Málaga & Costa del Sol",
-            "description": "Ledande företag för totalrenoveringar, villabygge och premiumtjänster på Costa del Sol. Vi betjänar Nerja, Frigiliana, Torrox, Málaga, Marbella, Fuengirola, Mijas & Granada. Spansk-nederländsk kvalitet.",
-            "og_title": "J&D Elite Builders - Lyxrenoveringar Costa del Sol",
-            "og_description": "Expertkonstruktion och exklusiva renoveringar. Nerja, Málaga, Marbella. Holländsk precision + lokal expertis.",
-            "keywords": "renovering nerja, byggföretag costa del sol, husrenovering málaga, byggare nerja, poolbyggare málaga, totalrenovering, nybyggnation marbella, renovering frigiliana, byggnad torrox, murare nerja, renovering fuengirola, konstruktion mijas, renovering granada"
+            "title": "J&D Elite Builders | Lyxrenovering & Bygg i Nerja",
+            "description": "Premium bygg- och totalrenoveringstjänster i Nerja & Costa del Sol. Specialister på lyxvillor och fastighetsförvaltning för internationella ägare. Holländsk kvalitet.",
+            "og_title": "J&D Elite Builders - Lyxrenoveringar & Fastighetsförvaltning",
+            "og_description": "Exklusiva hemtransformatörer och pålitlig fastighetsförvaltning i Nerja, Málaga & Marbella. Holländsk kvalitet möter lokal expertis.",
+            "keywords": "villarenovering nerja, lyxbyggare costa del sol, fastighetsförvaltning nerja, hemvård spanien, holländska byggare málaga, nyckelvakt nerja, poolbygge nerja, köksrenovering málaga"
         },
         "services": {
             "new_build": {
@@ -282,8 +282,8 @@
                 "description": "Specialister på design och konstruktion av alla typer av pooler: infinity, saltvatten och uppvärmda."
             },
             "management": {
-                "title": "Fastighetsförvaltning & Hemtjänst i Nerja | J&D Elite Builders",
-                "description": "Teknisk service för ditt hem: nycklar, inspektioner, trädgårdsskötsel och omfattande fastighetsförvaltning för frånvarande ägare."
+                "title": "Fastighetsförvaltning Nerja | Trygg Hemtjänst & Nyckelservice",
+                "description": "Komplett förvaltning för frånvarande ägare: nyckelvakt, regelbundna kontroller och underhåll. Dina betrodda ögon på Costa del Sol."
             },
             "painting": {
                 "title": "Professionella Målare i Nerja & Costa del Sol",

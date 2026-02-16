@@ -112,6 +112,8 @@ export const ServicesPreview = () => {
                     <div
                         className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"
                         style={{ backgroundImage: `url(${service.image})` }}
+                        role="img"
+                        aria-label={`${title} - J&D Elite Builders`}
                     />
 
                     {/* Overlays */}
