@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
             allow: '/',
             disallow: '/private/',
         },
-        sitemap: 'https://jdelitebuilders.com/sitemap.xml',
+        sitemap: 'https://jdelitebuilders.company/sitemap.xml',
     };
 }

@@ -10,11 +10,11 @@ export const JsonLd = ({ locale }: JsonLdProps) => {
     const structuredData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://jdelitebuilders.com",
+        "@id": "https://jdelitebuilders.company",
         "name": BUSINESS_INFO.name,
-        "image": "https://jdelitebuilders.com/logo-full.png",
-        "logo": "https://jdelitebuilders.com/logo.png",
-        "url": "https://jdelitebuilders.com",
+        "image": "https://jdelitebuilders.company/logo-full.png",
+        "logo": "https://jdelitebuilders.company/logo.png",
+        "url": "https://jdelitebuilders.company",
         "telephone": [BUSINESS_INFO.phones[0], BUSINESS_INFO.phones[1]],
         "priceRange": "$$$",
         "address": {

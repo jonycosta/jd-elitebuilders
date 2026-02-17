@@ -81,7 +81,7 @@ export function getRawPhone(locale: Locale): string {
  */
 export const BUSINESS_INFO = {
     name: 'J&D Elite Builders',
-    email: 'info@jdelitebuilders.com', // Update with real email
+    email: 'info@jdelitebuilders.company', // Updated domain
     address: {
         street: 'Calle de la Victoria',
         city: 'Nerja',

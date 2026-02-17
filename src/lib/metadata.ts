@@ -16,7 +16,7 @@ interface MetadataParams {
 /**
  * Base URL - Update with actual domain when confirmed
  */
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || 'https://jdelitebuilders.com';
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || 'https://jdelitebuilders.company';
 
 /**
  * Generate comprehensive metadata for pages
