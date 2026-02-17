@@ -42,6 +42,7 @@ export default async function RootLayout({
   return (
     <html lang={locale} className="scroll-smooth">
       <head>
+        <meta name="google-site-verification" content="M8wcieDNDcl7_jF5l3_UEQ7MQxP60gi8z9rzkkgBWFc" />
         <JsonLd locale={locale} />
       </head>
       <body
