@@ -257,6 +257,14 @@
         "title": "Mantenimiento y Reparaciones en Costa del Sol | J&D Builders",
         "description": "Servicio integral de mantenimiento: reparaciones generales, averías de agua, piscinas y jardines. Protege tu inversión en Nerja y Costa del Sol."
       }
+    },
+    "projects": {
+      "title": "Proyectos de Reformas y Construcción | J&D Elite Builders Nerja",
+      "description": "Galería de nuestros proyectos de reformas integrales, construcción de villas y piscinas en Nerja y Costa del Sol. Calidad holandesa con experiencia local."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre Reformas en Nerja | J&D Elite Builders",
+      "description": "Respuestas a preguntas comunes sobre reformas, construcción, gestión de propiedades y licencias en Nerja. Información clara y transparente."
     }
   },
   "ServicePage": {
@@ -267,6 +275,22 @@
     "promo_msg": "Infórmate sin compromiso de nuestras tarifas y benefíciate de un precio económico y en donde no tengas que preocuparte por nada.",
     "why_trust_title": "¿Por qué confiar en J&D Elite Builders?",
     "why_trust_text": "Fundada por un profesional local de Nerja y un experto de Holanda, nuestra empresa combina la pasión mediterránea con la disciplina y precisión del norte de Europa. No solo construimos casas, creamos hogares con estándares internacionales."
+  },
+  "Projects": {
+    "title": "Nuestros Proyectos",
+    "subtitle": "Descubre nuestras últimas reformas y construcciones en Nerja y Costa del Sol. Cada proyecto refleja nuestro compromiso con la excelencia y la atención al detalle.",
+    "featured": "Proyectos Destacados",
+    "all_projects": "Todos los Proyectos",
+    "cta_title": "¿Listo para transformar tu espacio?",
+    "cta_subtitle": "Solicita un presupuesto personalizado y sin compromiso para tu próximo proyecto.",
+    "cta_button": "Solicitar Presupuesto"
+  },
+  "FAQ": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Respuestas claras a las dudas más comunes sobre reformas, construcción y gestión de propiedades en Nerja.",
+    "cta_title": "¿Tienes más preguntas?",
+    "cta_subtitle": "Nuestro equipo está listo para ayudarte. Contáctanos y te asesoramos sin compromiso.",
+    "cta_button": "Contactar Ahora"
   },
   "Footer": {
     "description": "Empresa líder en construcción en Nerja y la Costa del Sol. Especialistas en reformas integrales, obra nueva y mantenimiento con calidad hispano-holandesa.",
