@@ -25,7 +25,7 @@ echo.
 
 "%GIT_PATH%" add .
 "%GIT_PATH%" commit -m "Publicacion Automatica JD Builders"
-"%GIT_PATH%" push origin main
+"%GIT_PATH%" push origin master
 
 echo.
 echo ==========================================
