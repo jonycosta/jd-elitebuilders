@@ -124,7 +124,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
                             <div className="lg:col-span-1">
                                 <h2 className="text-3xl font-black text-navy mb-6 tracking-tight">{tCommon("vision_title")}</h2>
                                 <p className="text-lg text-stone leading-relaxed italic border-l-4 border-bronze pl-6 py-2">
-                                    "{vision}"
+                                    &quot;{vision}&quot;
                                 </p>
                             </div>
                             <div className="lg:col-span-2">
@@ -171,7 +171,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
                     <div className="max-w-4xl mx-auto text-center">
                         <h2 className="text-3xl font-black text-navy mb-6">{tCommon("why_trust_title")}</h2>
                         <p className="text-stone leading-relaxed italic text-lg">
-                            "{tCommon("why_trust_text")}"
+                            &quot;{tCommon("why_trust_text")}&quot;
                         </p>
                     </div>
                 </div>

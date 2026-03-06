@@ -39,7 +39,7 @@ export const AboutStory = () => {
                         <div className="space-y-6 text-stone text-lg leading-relaxed mb-10">
                             <p>{t("story")}</p>
                             <p className="italic text-navy/80 font-medium py-1">
-                                "{t("satisfaction")}"
+                                &quot;{t("satisfaction")}&quot;
                             </p>
                         </div>
 

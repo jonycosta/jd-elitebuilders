@@ -5,48 +5,7 @@ import { Link } from "@/i18n/routing";
 import { motion } from "framer-motion";
 import { Utensils, Bath, Paintbrush, Sun, ChevronRight, Hammer, Grid, Wrench, ShieldCheck } from "lucide-react";
 
-const services = [
-    {
-        id: "kitchen",
-        icon: Utensils,
-        image: "/portfolio/cocina-moderna-isla-marmol.jpg"
-    },
-    {
-        id: "bathroom",
-        icon: Bath,
-        image: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&q=80&w=800"
-    },
-    {
-        id: "interior",
-        icon: Paintbrush,
-        image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=800"
-    },
-    {
-        id: "terrace",
-        icon: Sun,
-        image: "https://images.unsplash.com/photo-1493397212122-2b85edf8106b?auto=format&fit=crop&q=80&w=800"
-    },
-    {
-        id: "painting",
-        icon: Paintbrush,
-        image: "https://images.unsplash.com/photo-1562663474-d30235c93216?auto=format&fit=crop&q=80&w=800"
-    },
-    {
-        id: "maintenance",
-        icon: Wrench,
-        image: "/portfolio/impermeabilizacion-terrazas-tejados.jpg"
-    },
-    {
-        id: "plastering",
-        icon: Hammer,
-        image: "https://images.unsplash.com/photo-1621905252507-93ae3464168c?auto=format&fit=crop&q=80&w=800"
-    },
-    {
-        id: "flooring",
-        icon: Grid,
-        image: "https://images.unsplash.com/photo-1581404917879-53e19259fddd?auto=format&fit=crop&q=80&w=800"
-    },
-];
+
 
 export const ServicesPreview = () => {
     const t = useTranslations("Services");
@@ -89,7 +48,7 @@ export const ServicesPreview = () => {
         }
     ];
 
-    const renderServiceCard = (service: any, index: number) => {
+    const renderServiceCard = (service: { id: string; icon: React.ElementType; image: string }, index: number) => {
         const Icon = service.icon;
         const title = t(`${service.id}.title`);
         const description = t(`${service.id}.description`);

@@ -5,7 +5,6 @@ interface JsonLdProps {
 }
 
 export const JsonLd = ({ locale }: JsonLdProps) => {
-    const contactInfo = getContactInfo(locale as Locale);
 
     const structuredData = {
         "@context": "https://schema.org",

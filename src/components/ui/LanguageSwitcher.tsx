@@ -1,7 +1,7 @@
 "use client";
 
 import { useLocale } from "next-intl";
-import { useRouter, usePathname, Link } from "@/i18n/routing";
+import { useRouter, usePathname } from "@/i18n/routing";
 import { motion } from "framer-motion";
 
 export const LanguageSwitcher = () => {
