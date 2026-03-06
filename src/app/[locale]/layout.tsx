@@ -48,7 +48,7 @@ export default async function RootLayout({
       <body
         className={`${montserrat.variable} ${inter.variable} antialiased bg-background text-foreground overflow-x-hidden`}
       >
-        <NextIntlClientProvider messages={messages}>
+        <NextIntlClientProvider messages={messages} locale={locale}>
           <Navbar />
           {children}
           <Footer />
