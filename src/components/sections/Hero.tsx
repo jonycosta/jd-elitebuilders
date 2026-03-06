@@ -35,12 +35,40 @@ export const Hero = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8 }}
                     >
-                        <span className="inline-block text-bronze font-black tracking-[0.3em] uppercase text-base mb-6 border-b-2 border-bronze/20 pb-2">
+                        <span className="inline-block text-bronze font-black tracking-[0.3em] uppercase text-base mb-4 border-b-2 border-bronze/20 pb-2">
                             {t("tagline")}
                         </span>
-                        <h1 className="text-3xl sm:text-4xl lg:text-8xl font-black text-navy leading-tight mb-8">
+
+                        {/* Psychological marketing hook */}
+                        <p className="text-sm sm:text-base text-navy font-semibold mb-4 tracking-wide">
+                            🥂 <em>¿Tu propiedad en la Costa del Sol te genera estrés?</em> Nosotros lo resolvemos — tú solo disfrutas.
+                        </p>
+                        <h1 className="text-xl sm:text-2xl lg:text-4xl font-black text-navy leading-tight mb-4">
                             {t("title_start")} <span className="text-bronze italic font-serif" title="Elite Construction & Management">{t("title_highlight")}</span> {t("title_end")}
                         </h1>
+
+                        {/* Collaborator badge */}
+                        <div className="flex flex-col gap-2 mb-8">
+                            <div className="flex flex-col sm:flex-row sm:items-center gap-1">
+                                <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/70 border border-gray-300 text-[11px] font-bold text-gray-900 uppercase tracking-widest w-fit">
+                                    🤝 Empresa colaboradora con <strong>GrupoCostaVisor</strong>
+                                </span>
+                                <a
+                                    href="mailto:grupocostavisor@gmail.com"
+                                    className="text-xs text-gray-900 hover:text-bronze transition-colors font-medium tracking-wide sm:ml-2"
+                                >
+                                    grupocostavisor@gmail.com
+                                </a>
+                            </div>
+                            <a
+                                href="https://www.costavisor.com"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/70 border border-gray-300 text-[11px] font-bold text-gray-900 uppercase tracking-widest w-fit hover:border-bronze hover:text-bronze transition-colors"
+                            >
+                                🌐 www.costavisor.com
+                            </a>
+                        </div>
                         <p className="text-lg lg:text-xl text-navy-light max-w-2xl mb-8 font-medium tracking-wide leading-relaxed">
                             {t("description")}
                         </p>
@@ -48,13 +76,16 @@ export const Hero = () => {
                         {/* Trust Badges - Simple & Direct */}
                         <div className="flex flex-wrap gap-4 mb-10">
                             <span className="px-4 py-2 bg-navy/5 rounded-full text-xs font-bold text-navy uppercase tracking-widest border border-navy/10 flex items-center gap-2">
-                                🇪🇸 🇬🇧 English & Spanish Team
+                                🇪🇸 🇬🇧 {t("badges.bilingual")}
                             </span>
                             <span className="px-4 py-2 bg-bronze/10 rounded-full text-xs font-bold text-bronze uppercase tracking-widest border border-bronze/20 flex items-center gap-2">
-                                🔑 Property Management
+                                🔑 {t("badges.management")}
                             </span>
                             <span className="px-4 py-2 bg-navy/5 rounded-full text-xs font-bold text-navy uppercase tracking-widest border border-navy/10 flex items-center gap-2">
-                                🏗️ Full Renovations
+                                🏗️ {t("badges.renovations")}
+                            </span>
+                            <span className="px-4 py-2 bg-bronze/10 rounded-full text-xs font-bold text-bronze uppercase tracking-widest border border-bronze/20 flex items-center gap-2">
+                                🛡️ {t("badges.maintenance")}
                             </span>
                         </div>
 
@@ -64,12 +95,12 @@ export const Hero = () => {
                                 {t("cta_primary")}
                                 <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
                             </Link>
-                            <a
-                                href="#process"
+                            <Link
+                                href="/services/management"
                                 className="border-2 border-navy/10 backdrop-blur-sm bg-white/50 text-navy px-10 py-5 rounded-sm font-bold uppercase tracking-widest hover:bg-white hover:text-bronze transition-smooth hover:border-bronze shadow-lg text-center"
                             >
                                 {t("cta_secondary")}
-                            </a>
+                            </Link>
                         </div>
                     </motion.div>
                 </div>

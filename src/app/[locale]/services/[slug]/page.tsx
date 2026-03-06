@@ -147,12 +147,14 @@ export default async function ServicePage({ params }: ServicePageProps) {
                                         <p className="text-xl font-bold leading-relaxed flex-1 italic">
                                             {tCommon("promo_msg")}
                                         </p>
-                                        <Link
-                                            href="/#contact"
+                                        <a
+                                            href={`https://wa.me/34643216427?text=${encodeURIComponent(tCommon("whatsapp_message"))}`}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
                                             className="whitespace-nowrap bg-bronze text-white px-8 py-4 rounded-sm font-bold uppercase tracking-widest hover:bg-white hover:text-bronze transition-all shadow-lg"
                                         >
                                             {tCommon("request_quote")}
-                                        </Link>
+                                        </a>
                                     </div>
                                     {/* Accent background decoration */}
                                     <div className="absolute -right-10 -bottom-10 w-40 h-40 bg-white/5 rounded-full blur-3xl group-hover:bg-white/10 transition-colors" />

@@ -9,14 +9,20 @@
         "contact": "Contact"
     },
     "Hero": {
-        "tagline": "The Ultimate Solution for Your Home",
-        "title_start": "YOUR PEACE OF MIND",
-        "title_highlight": "IS OUR",
-        "title_end": "PRIORITY",
-        "description": "From small repairs to major renovations. We are the professional answer to any housing need on the Costa del Sol. Forget the problems, we handle them.",
-        "cta_primary": "Get Online Quote",
-        "cta_secondary": "View Solutions",
-        "scroll": "Discover"
+        "tagline": "JD Elite Builders",
+        "title_start": "WE BUILD, MAINTAIN AND",
+        "title_highlight": "PROTECT",
+        "title_end": "YOUR PROPERTY ON THE COSTA DEL SOL.",
+        "description": "We live and work here. That's why we understand what a property needs to stay in perfect condition over time. More than building, we care.",
+        "cta_primary": "Discover our services",
+        "cta_secondary": "Property management",
+        "scroll": "Discover",
+        "badges": {
+            "bilingual": "English & Spanish Team",
+            "management": "Property Management",
+            "renovations": "Full Renovations",
+            "maintenance": "Preventive Maintenance"
+        }
     },
     "Stats": {
         "experience": "Years of Experience",
@@ -28,6 +34,30 @@
         "sublabel": "WhatsApp Chat",
         "tooltip": "Hello! How can we help you?",
         "message": "Hi J&D, I would like to request a quote for a renovation."
+    },
+    "IntegralManagement": {
+        "title": "Your Complete Solution on the Costa del Sol",
+        "subtitle": "Total Peace of Mind: We handle the entire process from start to finish. We keep you informed as if you were here, offering proximity, professionalism, and zero worries.",
+        "philosophy": "We are the company that solves your problems and manages your property with absolute trust.",
+        "pillars": {
+            "management": {
+                "title": "Management & Maintenance",
+                "description": "From rental optimization to comprehensive preventive maintenance."
+            },
+            "renovations": {
+                "title": "Turnkey Renovations",
+                "description": "We solve any construction need. We design, quote, and execute without you needing to travel."
+            },
+            "transparency": {
+                "title": "Control & Transparency",
+                "description": "Continuous reports and progress photos. We are your eyes, making you feel present at all times."
+            },
+            "legal": {
+                "title": "Complete Advice",
+                "description": "Expert support in license management and legal regulations for your total security."
+            }
+        },
+        "whatsappMessage": "Hi, I am interested in the Comprehensive Property Management service."
     },
     "ServicesPreview": {
         "title": "Our Excellence Services",
@@ -173,14 +203,15 @@
         }
     },
     "About": {
-        "title": "The Perfect Mix: Nerja + Holland",
-        "subtitle": "Local Tradition and Spanish-Dutch Quality.",
-        "story": "J&D Elite Builders was born from the union of two cultures. We are two young entrepreneurs, one native to Nerja and the other from Holland, who decided to join forces. We combine deep knowledge of the Costa del Sol terrain and local regulations with the methodology and precision that defines us. We are methodical and passionate about offering professional work, meticulously taking care of every technical and aesthetic detail.",
-        "satisfaction": "Our greatest reward is knowing that there is nothing like leaving the client fully satisfied with their new home.",
+        "title": "Construction with criteria. Management with commitment.",
+        "subtitle": "About Us",
+        "story": "JD Elite Builders arises from real knowledge of the environment and years of experience in the area. We understand that a property on the Costa del Sol needs more than a one-off renovation. It needs follow-up, prevention, and constant technical management.",
+        "satisfaction": "That is why we accompany each owner with transparency, planning, and direct communication. Our goal is not to finish a project, but to maintain a long-term relationship of trust.",
         "features": {
             "local": "Costa del Sol Experts",
             "dutch": "Spanish-Dutch Quality & Professionalism",
-            "youth": "Innovation & Energy"
+            "youth": "Innovation & Energy",
+            "maintenance": "Exclusive Preventive Maintenance"
         }
     },
     "Portfolio": {
@@ -265,8 +296,9 @@
         "request_quote": "Request Quote",
         "vision_title": "Our Vision",
         "promo_msg": "Ask for our rates without commitment and benefit from competitive pricing where you won't have to worry about a thing.",
+        "whatsapp_message": "Hi, I would like to request information about your rates and services.",
         "why_trust_title": "Why Trust J&D Elite Builders?",
-        "why_trust_text": "Founded by a local professional from Nerja and an expert from Holland, our company combines Mediterranean passion with Northern European discipline and precision. We don't just build houses, we create homes with international standards."
+        "why_trust_text": "With years of roots in Nerja and the Costa del Sol, we have consolidated a large and multidisciplinary technical team. We work exclusively with trusted professionals with proven experience in the area. This solid local infrastructure allows us to offer an agile, complete service with the guarantee that your property will always be in the best hands."
     },
     "Footer": {
         "description": "Leading construction company in Nerja and Costa del Sol. Specialists in full renovations, new builds, and maintenance with Spanish-Dutch quality.",

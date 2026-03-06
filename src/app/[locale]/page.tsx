@@ -1,4 +1,5 @@
 import { Hero } from "@/components/sections/Hero";
+import { IntegralManagement } from "@/components/sections/IntegralManagement";
 import { ServicesPreview } from "@/components/sections/ServicesPreview";
 import { ProcessSteps } from "@/components/sections/ProcessSteps";
 import { Portfolio } from "@/components/sections/Portfolio";
@@ -20,6 +21,7 @@ export default async function Home() {
   return (
     <main className="min-h-screen bg-background text-foreground">
       <Hero />
+      <IntegralManagement />
       <ServicesPreview />
       <ProcessSteps />
       <Portfolio />

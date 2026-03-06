@@ -2,7 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { motion } from "framer-motion";
-import { CheckCircle2, Globe, Zap, ShieldCheck } from "lucide-react";
+import { CheckCircle2, Globe, Zap, ShieldCheck, Wrench } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export const AboutStory = () => {
@@ -11,6 +11,7 @@ export const AboutStory = () => {
     const features = [
         { id: "local", icon: Globe },
         { id: "dutch", icon: ShieldCheck },
+        { id: "maintenance", icon: Wrench },
         { id: "youth", icon: Zap },
     ];
 
@@ -42,7 +43,7 @@ export const AboutStory = () => {
                             </p>
                         </div>
 
-                        <div className="grid sm:grid-cols-3 gap-6 justify-items-center">
+                        <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 justify-items-center">
                             {features.map((feature) => {
                                 const Icon = feature.icon;
                                 return (

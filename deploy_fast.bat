@@ -6,7 +6,8 @@ set "GIT_PATH="
 
 if exist "C:\Program Files\Git\cmd\git.exe" set "GIT_PATH=C:\Program Files\Git\cmd\git.exe"
 if exist "C:\Program Files\Git\bin\git.exe" set "GIT_PATH=C:\Program Files\Git\bin\git.exe"
-if exist "C:\Users\%USERNAME%\AppData\Local\Programs\Git\cmd\git.exe" set "GIT_PATH=C:\Users\%USERNAME%\AppData\Local\Programs\Git\cmd\git.exe"
+if exist "C:\Users\Jose luis\AppData\Local\Programs\Git\cmd\git.exe" set "GIT_PATH=C:\Users\Jose luis\AppData\Local\Programs\Git\cmd\git.exe"
+if exist "C:\Users\Jose luis\AppData\Local\GitHubDesktop\app-3.5.4\resources\app\git\cmd\git.exe" set "GIT_PATH=C:\Users\Jose luis\AppData\Local\GitHubDesktop\app-3.5.4\resources\app\git\cmd\git.exe"
 
 if "%GIT_PATH%"=="" (
     echo NO SE ENCONTRO GIT AUTOMATICAMENTE.

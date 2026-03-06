@@ -9,14 +9,20 @@
     "contact": "Contacto"
   },
   "Hero": {
-    "tagline": "La Solución Definitiva para tu Hogar",
-    "title_start": "TU TRANQUILIDAD",
-    "title_highlight": "ES NUESTRA",
-    "title_end": "PRIORIDAD",
-    "description": "Desde pequeñas reparaciones hasta grandes reformas. Somos la respuesta profesional a cualquier necesidad de tu vivienda en la Costa del Sol. Olvídate de los problemas, nosotros nos ocupamos.",
-    "cta_primary": "Pedir Presupuesto Online",
-    "cta_secondary": "Ver Soluciones",
-    "scroll": "Descubrir"
+    "tagline": "JD Elite Builders",
+    "title_start": "CONSTRUIMOS, MANTENEMOS Y",
+    "title_highlight": "PROTEGEMOS",
+    "title_end": "TU PROPIEDAD EN LA COSTA DEL SOL.",
+    "description": "Vivimos y trabajamos aquí. Por eso entendemos lo que una propiedad necesita para mantenerse en perfecto estado con el paso del tiempo. Más que construir, cuidamos.",
+    "cta_primary": "Descubrir nuestros servicios",
+    "cta_secondary": "Gestión para propietarios",
+    "scroll": "Descubrir",
+    "badges": {
+      "bilingual": "Equipo Español e Inglés",
+      "management": "Gestión de Propiedades",
+      "renovations": "Reformas Integrales",
+      "maintenance": "Mantenimiento Preventivo"
+    }
   },
   "Stats": {
     "experience": "Años de Experiencia",
@@ -28,6 +34,30 @@
     "sublabel": "Chat WhatsApp",
     "tooltip": "¡Hola! ¿En qué podemos ayudarte?",
     "message": "Hola J&D, me gustaría solicitar un presupuesto para una reforma."
+  },
+  "IntegralManagement": {
+    "title": "Tu Solución Integral en la Costa del Sol",
+    "subtitle": "Tranquilidad Total: Nos encargamos de todo el proceso, de principio a fin. Manteniéndote informado como si estuvieras aquí para que disfrutes de máxima cercanía, profesionalidad y cero preocupaciones.",
+    "philosophy": "Somos la empresa que soluciona tus problemas y gestiona tu propiedad con total confianza.",
+    "pillars": {
+      "management": {
+        "title": "Gestión y Mantenimiento",
+        "description": "Desde la rentabilización de tu alquiler hasta un exhaustivo mantenimiento preventivo."
+      },
+      "renovations": {
+        "title": "Reformas Llave en Mano",
+        "description": "Solucionamos cualquier obra. Diseñamos, presupuestamos y ejecutamos sin que tengas que viajar."
+      },
+      "transparency": {
+        "title": "Control y Transparencia",
+        "description": "Reportes continuos y fotos del progreso. Seremos tus ojos, para que te sientas presente en todo momento."
+      },
+      "legal": {
+        "title": "Asesoramiento Completo",
+        "description": "Apoyo experto en gestión de licencias y normativas legales para tu total seguridad."
+      }
+    },
+    "whatsappMessage": "Hola, me interesa el servicio de Gestión Integral de Alojamientos."
   },
   "ServicesPreview": {
     "title": "Nuestros Servicios de Excelencia",
@@ -173,14 +203,16 @@
     }
   },
   "About": {
-    "title": "La Fusión Perfecta: Nerja + Holanda",
-    "subtitle": "Tradición Local y Calidad Hispano Holandesa.",
-    "story": "J&D Elite Builders nace de la unión de dos culturas. Somos dos jóvenes emprendedores, uno nativo de Nerja y otro de Holanda, que decidieron unir fuerzas. Combinamos el conocimiento profundo del terreno y la normativa local de la Costa del Sol con la metodología y precisión que nos caracteriza. Somos metódicos y nos apasiona ofrecer un trabajo profesional, cuidando meticulosamente cada detalle técnico y estético.",
-    "satisfaction": "Nuestra mayor recompensa es saber que no hay nada como dejar al cliente plenamente satisfecho con su nuevo hogar.",
+    "title": "Construcción con criterio. Gestión con compromiso.",
+    "subtitle": "Sobre Nosotros",
+    "story": "JD Elite Builders surge del conocimiento real del entorno y de años de experiencia en la zona. Entendemos que una propiedad en la Costa del Sol necesita algo más que una reforma puntual. Necesita seguimiento, prevención y una gestión técnica constante.",
+    "team": "Contamos con más de 15 años de experiencia en el sector y un equipo amplio, cualificado y comprometido. Profesionales de distintas disciplinas que trabajan de forma coordinada para ofrecerte un servicio completo, ágil y sin complicaciones.",
+    "satisfaction": "Por eso acompañamos a cada propietario con transparencia, planificación y comunicación directa. Nuestro objetivo no es terminar una obra, sino mantener una relación de confianza a largo plazo.",
     "features": {
       "local": "Expertos en la Costa del Sol",
       "dutch": "Calidad y Profesionalidad Hispano Holandesa",
-      "youth": "Innovación y Energía"
+      "youth": "Innovación y Energía",
+      "maintenance": "Mantenimiento Preventivo Exclusivo"
     }
   },
   "Portfolio": {
@@ -273,8 +305,9 @@
     "request_quote": "Solicitar Presupuesto",
     "vision_title": "Nuestra Visión",
     "promo_msg": "Infórmate sin compromiso de nuestras tarifas y benefíciate de un precio económico y en donde no tengas que preocuparte por nada.",
+    "whatsapp_message": "Hola, me gustaría solicitar información sobre vuestras tarifas y servicios.",
     "why_trust_title": "¿Por qué confiar en J&D Elite Builders?",
-    "why_trust_text": "Fundada por un profesional local de Nerja y un experto de Holanda, nuestra empresa combina la pasión mediterránea con la disciplina y precisión del norte de Europa. No solo construimos casas, creamos hogares con estándares internacionales."
+    "why_trust_text": "Con años de arraigo en Nerja y la Costa del Sol, hemos consolidado un equipo técnico amplio y multidisciplinar. Trabajamos exclusivamente con profesionales de confianza y probada experiencia en la zona. Esta sólida infraestructura local nos permite ofrecer un servicio ágil, completo y con la garantía de que tu propiedad siempre estará en las mejores manos."
   },
   "Projects": {
     "title": "Nuestros Proyectos",
