@@ -10,10 +10,12 @@
   },
   "Hero": {
     "tagline": "JD Elite Builders",
-    "title_start": "CONSTRUIMOS, MANTENEMOS Y",
-    "title_highlight": "PROTEGEMOS",
-    "title_end": "TU PROPIEDAD EN LA COSTA DEL SOL.",
-    "description": "Vivimos y trabajamos aquí. Por eso entendemos lo que una propiedad necesita para mantenerse en perfecto estado con el paso del tiempo. Más que construir, cuidamos.",
+    "title_start": "MANTENIMIENTO,",
+    "title_highlight": "REFORMAS",
+    "title_end": "Y CONSTRUCCIÓN EN NERJA.",
+    "description": "Especialista en mantenimiento, y mantenimiento preventivo reformas y construcción. Amplio equipo profesional y gestión de propiedades.",
+    "marketing_hook": "🥂 ¿Su propiedad en la Costa del Sol le genera estrés? Nosotros lo resolvemos — usted solo disfrute.",
+    "collaborator": "🤝 Empresa colaboradora con GrupoCostaVisor",
     "cta_primary": "Descubrir nuestros servicios",
     "cta_secondary": "Gestión para propietarios",
     "scroll": "Descubrir",
@@ -60,8 +62,8 @@
     "whatsappMessage": "Hola, me interesa el servicio de Gestión Integral de Alojamientos."
   },
   "ServicesPreview": {
-    "title": "Nuestros Servicios de Excelencia",
-    "subtitle": "Expertos en Obra Nueva, Reformas Integrales y Proyectos de Lujo. Calidad superior a precios competitivos."
+    "title": "Servicios de Mantenimiento y Construcción",
+    "subtitle": "Especialistas en Mantenimiento Preventivo, Reformas y Gestión de Propiedades. Calidad superior con un equipo profesional a su servicio."
   },
   "BudgetSimulator": {
     "title": "Calculadora de Presupuesto",
@@ -146,8 +148,8 @@
       ]
     },
     "new_build": {
-      "title": "Villas de Obra Nueva",
-      "description": "Tu villa soñada desde cero. Gestionamos licencias, arquitectos y construcción. Llave en mano.",
+      "title": "Construcción y Proyectos",
+      "description": "Ejecutamos proyectos de construcción y reformas con máxima seriedad. Gestionamos licencias y dirección de obra. Llave en mano.",
       "benefits": [
         "Diseño Moderno",
         "Gestión de Licencias",
@@ -165,7 +167,7 @@
     },
     "kitchen": {
       "title": "Cocinas & Baños",
-      "description": "Cocinas modernas y baños de lujo. Las estancias más importantes de tu casa, renovadas.",
+      "description": "Renovación de cocinas y baños con acabados profesionales. Funcionalidad y diseño para su hogar.",
       "benefits": [
         "Máxima Calidad",
         "Diseño a Medida",
@@ -230,20 +232,20 @@
   },
   "SEO": {
     "home": {
-      "title": "J&D Elite Builders | Reformas de Lujo y Construcción en Nerja",
-      "description": "Servicios premium de construcción y reformas integrales en Nerja y Costa del Sol. Especialistas en villas exclusivas y gestión de propiedades para extranjeros. Calidad y precisión holandesa.",
-      "og_title": "J&D Elite Builders - Reformas de Alto Standing y Gestión",
-      "og_description": "Transformación de viviendas exclusivas y gestión de confianza en Nerja, Málaga y Marbella. Calidad holandesa con experiencia local.",
-      "keywords": "reformas de lujo nerja, construcción costa del sol, gestión de propiedades nerja, reformas integrales málaga, custodia de llaves nerja, piscinas de diseño málaga, reformas marbella, obra nueva nerja"
+      "title": "J&D Elite Builders | Especialistas en Mantenimiento y Reformas en Nerja",
+      "description": "Mantenimiento preventivo, reformas y gestión de propiedades en Nerja y Costa del Sol. Amplio equipo profesional para el cuidado integral de su vivienda.",
+      "og_title": "J&D Elite Builders - Mantenimiento y Gestión de Propiedades",
+      "og_description": "Especialistas en mantenimiento y reformas integrales en Nerja. Gestión de confianza con equipo profesional.",
+      "keywords": "mantenimiento propiedades nerja, mantenimiento preventivo nerja, gestión de propiedades nerja, reformas integrales nerja, custodia de llaves nerja, construcción costa del sol, reformas nerja, obra nueva nerja"
     },
     "services": {
       "new_build": {
-        "title": "Construcción de Casas y Villas en Nerja | J&D Elite Builders",
-        "description": "Expertos en construcción de obra nueva. Creamos su hogar desde los cimientos con profesionalidad y estándares europeos."
+        "title": "Construcción y Reformas en Nerja | J&D Elite Builders",
+        "description": "Expertos en construcción y reformas integrales. Ejecutamos su proyecto con profesionalidad y seriedad."
       },
       "renovation": {
         "title": "Reformas Integrales en Costa del Sol | Nerja y Marbella",
-        "description": "Llevamos a cabo la reforma completa de su vivienda, local o villa. Transformación total con acabados de alta calidad."
+        "description": "Llevamos a cabo la reforma completa de su vivienda o local en Nerja. Transformación total con acabados profesionales de alta calidad."
       },
       "extension": {
         "title": "Ampliaciones de Viviendas y Estructuras | Nerja",
@@ -292,7 +294,7 @@
     },
     "projects": {
       "title": "Proyectos de Reformas y Construcción | J&D Elite Builders Nerja",
-      "description": "Galería de nuestros proyectos de reformas integrales, construcción de villas y piscinas en Nerja y Costa del Sol. Calidad holandesa con experiencia local."
+      "description": "Galería de nuestros proyectos de reformas integrales, construcción y mantenimiento en Nerja y Costa del Sol. Calidad con amplia experiencia local."
     },
     "faq": {
       "title": "Preguntas Frecuentes sobre Reformas en Nerja | J&D Elite Builders",

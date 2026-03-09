@@ -10,10 +10,12 @@
     },
     "Hero": {
         "tagline": "JD Elite Builders",
-        "title_start": "WE BUILD, MAINTAIN AND",
-        "title_highlight": "PROTECT",
-        "title_end": "YOUR PROPERTY ON THE COSTA DEL SOL.",
-        "description": "We live and work here. That's why we understand what a property needs to stay in perfect condition over time. More than building, we care.",
+        "title_start": "MAINTENANCE, ",
+        "title_highlight": "RENOVATIONS",
+        "title_end": "AND CONSTRUCTION IN NERJA.",
+        "description": "Specialist in maintenance, and preventive maintenance, renovations and construction. Broad professional team and property management.",
+        "marketing_hook": "🥂 Does your property on the Costa del Sol cause you stress? We solve it — you just enjoy.",
+        "collaborator": "🤝 Collaborating company with GrupoCostaVisor",
         "cta_primary": "Discover our services",
         "cta_secondary": "Property management",
         "scroll": "Discover",
@@ -60,8 +62,8 @@
         "whatsappMessage": "Hi, I am interested in the Comprehensive Property Management service."
     },
     "ServicesPreview": {
-        "title": "Our Excellence Services",
-        "subtitle": "Steps in New Build, Full Renovations, and Luxury Projects. Superior quality at competitive prices."
+        "title": "Maintenance & Construction Services",
+        "subtitle": "Specialists in Preventive Maintenance, Renovations, and Property Management. Superior quality with a professional team at your service."
     },
     "BudgetSimulator": {
         "title": "Budget Calculator",
@@ -146,8 +148,8 @@
             ]
         },
         "new_build": {
-            "title": "New Build Villas",
-            "description": "Your dream villa from scratch. We handle licenses, architects, and construction. Turnkey delivery.",
+            "title": "Construction & Projects",
+            "description": "We execute construction and renovation projects with maximum seriousness. We manage licenses and site management. Turnkey delivery.",
             "benefits": [
                 "Modern Design",
                 "License Handling",
@@ -165,7 +167,7 @@
         },
         "kitchen": {
             "title": "Kitchens & Baths",
-            "description": "Modern kitchens and luxury bathrooms. The most important rooms in your house, upgraded.",
+            "description": "Kitchen and bathroom renovations with professional finishes. Functionality and design for your home.",
             "benefits": [
                 "Top Quality",
                 "Custom Design",
@@ -229,11 +231,11 @@
     },
     "SEO": {
         "home": {
-            "title": "J&D Elite Builders | Luxury Villa Renovation & Construction in Nerja",
-            "description": "Premium construction and complete renovation services in Nerja & Costa del Sol. Specialized in high-end villas and total property care for international owners. Dutch precision & quality.",
-            "og_title": "J&D Elite Builders - Luxury Renovations & Property Care",
-            "og_description": "Exclusive home transformations and reliable property management in Nerja, Málaga & Marbella. Dutch quality meets local expertise.",
-            "keywords": "villa renovation nerja, luxury builders costa del sol, property management nerja, home care spain, dutch builders málaga, key holding nerja, pool construction nerja, kitchen renovation málaga"
+            "title": "J&D Elite Builders | Maintenance & Renovation Specialists in Nerja",
+            "description": "Preventive maintenance, renovations, and property management in Nerja & Costa del Sol. Large professional team for integral home care.",
+            "og_title": "J&D Elite Builders - Maintenance & Property Management",
+            "og_description": "Specialists in maintenance and full renovations in Nerja. Trusted management with a professional team.",
+            "keywords": "property maintenance nerja, preventive maintenance nerja, property management nerja, full renovations nerja, key holding nerja, construction costa del sol, home renovation spain, laundry service nerja"
         },
         "services": {
             "new_build": {
@@ -242,7 +244,7 @@
             },
             "renovation": {
                 "title": "Full Renovations Costa del Sol | Nerja & Marbella",
-                "description": "Complete renovation services for apartments, houses, and villas. Full transformation with high-quality finishes."
+                "description": "Complete renovation services for apartments and houses. Full transformation with professional high-quality finishes."
             },
             "extension": {
                 "title": "Home Extensions & Structural Additions | Nerja",

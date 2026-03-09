@@ -11,8 +11,9 @@ set paths[2]=C:\Program Files\Git\bin\git.exe
 set paths[3]=C:\Program Files\Git\cmd\git.exe
 set paths[4]=%LocalAppData%\Programs\Git\bin\git.exe
 set paths[5]=%LocalAppData%\Programs\Git\cmd\git.exe
+set paths[6]=%LocalAppData%\GitHubDesktop\app-3.5.4\resources\app\git\cmd\git.exe
 
-for /l %%i in (0,1,5) do (
+for /l %%i in (0,1,6) do (
     if exist "!paths[%%i]!" (
         set "GIT_PATH=!paths[%%i]!"
         goto :found

@@ -9,10 +9,12 @@
     },
     "Hero": {
         "tagline": "JD Elite Builders",
-        "title_start": "WIJ BOUWEN, ONDERHOUDEN EN",
-        "title_highlight": "BESCHERMEN",
-        "title_end": "UW WONING AAN DE COSTA DEL SOL.",
-        "description": "Wij wonen en werken hier. Daarom begrijpen we wat een woning nodig heeft om op de lange termijn in perfecte staat te blijven. Meer dan bouwen, wij ontzorgen.",
+        "title_start": "ONDERHOUD,",
+        "title_highlight": "RENOVATIE",
+        "title_end": "EN BOUW IN NERJA.",
+        "description": "Specialist in onderhoud, en preventief onderhoud renovaties en bouw. Breed professioneel team en vastgoedbeheer.",
+        "marketing_hook": "🥂 Geeft uw eigendom aan de Costa del Sol u stress? Wij lossen het op — u geniet alleen.",
+        "collaborator": "🤝 Samenwerkend bedrijf met GrupoCostaVisor",
         "cta_primary": "Ontdek onze diensten",
         "cta_secondary": "Vastgoedbeheer",
         "scroll": "Ontdek",
@@ -59,8 +61,8 @@
         "whatsappMessage": "Hallo, ik ben geïnteresseerd in de service voor Totaal Vastgoedbeheer."
     },
     "ServicesPreview": {
-        "title": "Onze Excellente Diensten",
-        "subtitle": "Experts in Nieuwbouw, Volledige Renovaties en Luxe Projecten. Topkwaliteit tegen scherpe prijzen."
+        "title": "Onderhouds- & Bouwdiensten",
+        "subtitle": "Specialisten in Preventief Onderhoud, Renovaties en Vastgoedbeheer. Topkwaliteit met een professioneel team tot uw dienst."
     },
     "BudgetSimulator": {
         "title": "Investerings-simulator",
@@ -136,8 +138,8 @@
             ]
         },
         "new_build": {
-            "title": "Nieuwbouw",
-            "description": "Wij ontwerpen en bouwen de villa van uw dromen vanaf de basis. Integrale begeleiding van fundering tot sleuteloverdracht.",
+            "title": "Bouw & Projecten",
+            "description": "Wij voeren bouw- en renovatieprojecten uit met maximale ernst. Wij verzorgen vergunningen en directievoering. Sleutelklare oplevering.",
             "benefits": [
                 "Moderne Architectuur",
                 "Energie-efficiëntie A+",
@@ -226,8 +228,8 @@
             ]
         },
         "kitchen": {
-            "title": "Keukenrenovaties",
-            "description": "Wij transformeren uw keuken tot een functionele en moderne ruimte. Ontwerp op maat en topkwaliteit materialen.",
+            "title": "Keukens & Badkamers",
+            "description": "Keuken- en badkamerrenovaties met professionele afwerking. Functionaliteit en design voor uw huis.",
             "benefits": [
                 "Ergonomisch Ontwerp",
                 "Premium Materialen",
@@ -289,11 +291,11 @@
     },
     "SEO": {
         "home": {
-            "title": "J&D Elite Builders | Luxe Villa Renovatie & Bouw in Nerja",
-            "description": "Premium bouw en complete renovatie in Nerja & Costa del Sol. Specialisten in luxe villa's en totaal vastgoedbeheer voor internationale eigenaren. Nederlandse precisie.",
-            "og_title": "J&D Elite Builders - Luxe Renovaties & Vastgoedbeheer",
-            "og_description": "Exclusieve woningtransformaties en betrouwbaar vastgoedbeheer in Nerja, Málaga & Marbella. Nederlandse kwaliteit ontmoet lokale expertise.",
-            "keywords": "villa renovatie nerja, luxe bouwbedrijf costa del sol, vastgoedbeheer nerja, woningonderhoud spanje, nederlandse aannemer málaga, sleutelbeheer nerja, zwembadbouw nerja, keukenrenovatie málaga"
+            "title": "J&D Elite Builders | Specialisten in Onderhoud & Renovatie in Nerja",
+            "description": "Preventief onderhoud, renovaties en vastgoedbeheer in Nerja & Costa del Sol. Breed professioneel team voor integrale woningzorg.",
+            "og_title": "J&D Elite Builders - Onderhoud & Vastgoedbeheer",
+            "og_description": "Specialisten in onderhoud en volledige renovaties in Nerja. Betrouwbaar beheer met een professioneel team.",
+            "keywords": "vastgoedonderhoud nerja, preventief onderhoud nerja, vastgoedbeheer nerja, woningrenovatie spanje, nederlandse aannemer nerja, sleutelbeheer nerja, zwembadbouw nerja, keukenrenovatie nerja"
         },
         "services": {
             "new_build": {

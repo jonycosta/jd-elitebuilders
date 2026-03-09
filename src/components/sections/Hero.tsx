@@ -41,7 +41,7 @@ export const Hero = () => {
 
                         {/* Psychological marketing hook */}
                         <p className="text-sm sm:text-base text-navy font-semibold mb-4 tracking-wide">
-                            🥂 <em>¿Tu propiedad en la Costa del Sol te genera estrés?</em> Nosotros lo resolvemos — tú solo disfrutas.
+                            {t("marketing_hook")}
                         </p>
                         <h1 className="text-xl sm:text-2xl lg:text-4xl font-black text-navy leading-tight mb-4">
                             {t("title_start")} <span className="text-bronze italic font-serif" title="Elite Construction & Management">{t("title_highlight")}</span> {t("title_end")}
@@ -51,7 +51,7 @@ export const Hero = () => {
                         <div className="flex flex-col gap-2 mb-8">
                             <div className="flex flex-col sm:flex-row sm:items-center gap-1">
                                 <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/70 border border-gray-300 text-[11px] font-bold text-gray-900 uppercase tracking-widest w-fit">
-                                    🤝 Empresa colaboradora con <strong>GrupoCostaVisor</strong>
+                                    {t("collaborator")}
                                 </span>
                                 <a
                                     href="mailto:grupocostavisor@gmail.com"

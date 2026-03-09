@@ -9,10 +9,12 @@
     },
     "Hero": {
         "tagline": "JD Elite Builders",
-        "title_start": "VI BYGGER, UNDERHÅLLER OCH",
-        "title_highlight": "SKYDDAR",
-        "title_end": "DIN FASTIGHET PÅ COSTA DEL SOL.",
-        "description": "Vi bor och arbetar här. Därför förstår vi vad en fastighet behöver för att hålla sig i perfekt skick över tid. Mer än att bygga, vi bryr oss.",
+        "title_start": "UNDERHÅLL,",
+        "title_highlight": "RENOVERING",
+        "title_end": "OCH BYGGNATION I NERJA.",
+        "description": "Specialist på underhåll, och förebyggande underhåll renoveringar och byggnation. Brett professionellt team och fastighetsförvaltning.",
+        "marketing_hook": "🥂 Orsakar din fastighet på Costa del Sol dig stress? Vi löser det — du bara njuter.",
+        "collaborator": "🤝 Samarbetsföretag med GrupoCostaVisor",
         "cta_primary": "Upptäck våra tjänster",
         "cta_secondary": "Fastighetsförvaltning",
         "scroll": "Upptäck",
@@ -59,8 +61,8 @@
         "whatsappMessage": "Hej, jag är intresserad av tjänsten för Total Fastighetsskötsel."
     },
     "ServicesPreview": {
-        "title": "Våra Excellens-tjänster",
-        "subtitle": "Steg inom Nyproduktion, Totalrenoveringar och Lyxprojekt. Överlägsen kvalitet till konkurrenskraftiga priser."
+        "title": "Underhålls- & Byggtjänster",
+        "subtitle": "Specialister på Förebyggande Underhåll, Renoveringar och Fastighetsförvaltning. Överlägsen kvalitet med ett professionellt team till din tjänst."
     },
     "BudgetSimulator": {
         "title": "Investerings-simulator",
@@ -136,8 +138,8 @@
             ]
         },
         "new_build": {
-            "title": "Nyproduktion",
-            "description": "Vi designar och bygger dina drömmars villa från grunden. Helhetsansvar från grundläggning till nyckelöverlämning.",
+            "title": "Bygg & Projekt",
+            "description": "Vi utför bygg- och renoveringsprojekt med största seriositet. Vi hanterar licenser och projektledning. Nyckelfärdig leverans.",
             "benefits": [
                 "Modern Arkitektur",
                 "Energieffektivitet A+",
@@ -226,8 +228,8 @@
             ]
         },
         "kitchen": {
-            "title": "Köksrenoveringar",
-            "description": "Förvandla ditt kök till ett funktionellt och modernt utrymme. Anpassad design och material av högsta kwaliteit.",
+            "title": "Kök & Badrum",
+            "description": "Köks- och badrumsrenoveringar med professionell finish. Funktionalitet och design för ditt hem.",
             "benefits": [
                 "Ergonomisk Design",
                 "Premiummaterial",
@@ -289,11 +291,11 @@
     },
     "SEO": {
         "home": {
-            "title": "J&D Elite Builders | Lyxrenovering & Bygg i Nerja",
-            "description": "Premium bygg- och totalrenoveringstjänster i Nerja & Costa del Sol. Specialister på lyxvillor och fastighetsförvaltning för internationella ägare. Holländsk kvalitet.",
-            "og_title": "J&D Elite Builders - Lyxrenoveringar & Fastighetsförvaltning",
-            "og_description": "Exklusiva hemtransformatörer och pålitlig fastighetsförvaltning i Nerja, Málaga & Marbella. Holländsk kvalitet möter lokal expertis.",
-            "keywords": "villarenovering nerja, lyxbyggare costa del sol, fastighetsförvaltning nerja, hemvård spanien, holländska byggare málaga, nyckelvakt nerja, poolbygge nerja, köksrenovering málaga"
+            "title": "J&D Elite Builders | Specialister på Underhåll & Renovering i Nerja",
+            "description": "Förebyggande underhåll, renoveringar och fastighetsförvaltning in Nerja & Costa del Sol. Brett professionellt team för helhetsvård av hemmet.",
+            "og_title": "J&D Elite Builders - Underhåll & Fastighetsförvaltning",
+            "og_description": "Specialister på underhåll och totalrenoveringar i Nerja. Pålitlig förvaltning med ett professionellt team.",
+            "keywords": "fastighetsskötsel nerja, förebyggande underhåll nerja, fastighetsförvaltning nerja, hemvård spanien, holländska byggare nerja, nyckelvakt nerja, poolbygge nerja, köksrenovering nerja"
         },
         "services": {
             "new_build": {
