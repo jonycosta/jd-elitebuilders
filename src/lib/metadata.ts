@@ -78,6 +78,7 @@ export async function generatePageMetadata({
                 'en': `${BASE_URL}/en${path}`,
                 'sv': `${BASE_URL}/sv${path}`,
                 'nl': `${BASE_URL}/nl${path}`,
+                'x-default': `${BASE_URL}/es${path}`,
             }
         },
 
@@ -94,10 +95,10 @@ export async function generatePageMetadata({
             },
         },
 
-        // Verification (add when available)
-        // verification: {
-        //     google: 'your-google-verification-code',
-        // },
+        // Verification
+        verification: {
+            google: 'M8wcieDNDcl7_jF5l3_UEQ7MQxP60gi8z9rzkkgBWFc',
+        },
     };
 }
 
@@ -119,10 +120,10 @@ function getOpenGraphLocale(locale: Locale): string {
  */
 function generateKeywords(locale: Locale): string {
     const keywordSets: Record<Locale, string> = {
-        es: 'reformas nerja, construcción costa del sol, gestión de propiedades nerja, reformas málaga, constructor nerja, piscinas málaga, reformas integrales, obra nueva marbella, reformas frigiliana, construcción torrox, albañilería nerja, mantenimiento de casas nerja, custodia de llaves nerja, reformas de lujo costa del sol',
-        en: 'renovation nerja, construction costa del sol, property management nerja, home renovation málaga, builders nerja, swimming pools málaga, complete renovation, new construction marbella, renovation frigiliana, builders torrox, key holding nerja, luxury villa renovation costa del sol, home care spain',
-        sv: 'renovering nerja, fastighetsförvaltning nerja, byggföretag costa del sol, husrenovering málaga, byggare nerja, poolbyggare málaga, totalrenovering, nybyggnation marbella, husutbyggnad nerja, nyckelvakt nerja, lyxrenovering spanien',
-        nl: 'verbouwing nerja, vastgoedbeheer nerja, bouwbedrijf costa del sol, huis renovatie málaga, aannemers nerja, zwembad aanleg málaga, complete renovatie, nieuwbouw marbella, woningonderhoud spanje, sleutelbeheer nerja, luxe villa verbouwing spanje',
+        es: 'mantenimiento propiedades nerja, mantenimiento preventivo nerja, gestión de propiedades nerja, reformas integrales nerja, custodia de llaves nerja, construcción costa del sol, mantenimiento reformas nerja, obra nueva nerja, cuidador de casas nerja, reparaciones nerja, equipo profesional construcción nerja',
+        en: 'property maintenance nerja, preventive maintenance nerja, property management nerja, full renovations nerja, key holding nerja, construction costa del sol, home care spain, builders nerja, professional maintenance team nerja, house care spain',
+        sv: 'fastighetsskötsel nerja, förebyggande underhåll nerja, fastighetsförvaltning nerja, husrenovering nerja, byggare nerja, nyckelvakt nerja, totalrenovering nerja, hemvård spanien, byggföretag costa del sol',
+        nl: 'vastgoedonderhoud nerja, preventief onderhoud nerja, vastgoedbeheer nerja, woningrenovatie nerja, aannemers nerja, sleutelbeheer nerja, complete renovatie nerja, woningonderhoud spanje, bouwbedrijf costa del sol',
     };
     return keywordSets[locale] || keywordSets.es;
 }

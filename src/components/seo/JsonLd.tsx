@@ -99,7 +99,7 @@ export const JsonLd = ({ locale }: JsonLdProps) => {
             BUSINESS_INFO.social.instagram,
             BUSINESS_INFO.social.facebook
         ],
-        "description": "J&D Elite Builders provides premium construction, renovation, and property management services in Nerja and Costa del Sol. High Dutch quality meets local Spanish expertise. Specialized in luxury home care for international owners, new builds, and complete villas transformation.",
+        "description": "J&D Elite Builders provides professional maintenance, preventive care, and construction services in Nerja and Costa del Sol. Expert property management and renovations with a broad professional team to ensure your home is always in perfect condition.",
         "knowsLanguage": ["Spanish", "English", "Dutch", "Swedish"],
         "paymentAccepted": "Cash, Credit Card, Bank Transfer",
     };
